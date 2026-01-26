@@ -9,7 +9,7 @@ class CfgPatches {
 
         VERSION_CONFIG;
 
-        requiredAddons[] = {"USP_Gear_Acc", "USP_Gear_Nvg", "ibc_main"};
+        requiredAddons[] = {"USP_Gear_Acc", "USP_Gear_NVG", "ibc_main"};
         skipWhenMissingDependencies = 1;
 
         units[] = {};

@@ -7,7 +7,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"ibc_main", "USP_Armor_Fix"};
-        //skipWhenMissingDependencies = 1; nie potrzebne bo to tylko aby nadpisalo po tym modzie, a usp jesty sprawdzane w głównym addonie?
+        skipWhenMissingDependencies = 1;
         author = "kolmipilot";
         VERSION_CONFIG;
     };
