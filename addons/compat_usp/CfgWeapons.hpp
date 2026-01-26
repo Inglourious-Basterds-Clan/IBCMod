@@ -207,6 +207,7 @@ class CfgWeapons{
     class USP_ZIPTIE: USP_ItemCore {
         scope = 0;
     };
+
 };
 
 
