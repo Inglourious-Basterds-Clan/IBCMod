@@ -22,7 +22,7 @@
         <Key ID="STR_IBC_Main_Mission_Items_Supplies_Name">
             <English>Supplies</English>
         </Key>
-         <Key ID="STR_IBC_Main_Category">
+        <Key ID="STR_IBC_Main_Category">
             <English>IBC</English>
         </Key>
     </Package>
