@@ -1,6 +1,10 @@
 class CfgWeapons{
-    class Default {};
-    class ItemCore: Default {};
+
+    #include "Helmets.hpp"
+    #include "Vests.hpp"
+
+
+    
     class CBA_MiscItem: ItemCore {};
     class USP_ItemCore: CBA_MiscItem {};
     class USP_BAT_PVS31: USP_ItemCore {
