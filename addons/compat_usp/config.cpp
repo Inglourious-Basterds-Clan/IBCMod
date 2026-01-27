@@ -18,3 +18,6 @@ class CfgPatches {
 };
 
 #include "CfgWeapons.hpp"
+#include "CfgVehicles.hpp"
+
+#include "BettrIR_Config.hpp"

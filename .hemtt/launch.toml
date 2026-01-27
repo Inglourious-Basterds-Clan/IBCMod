@@ -32,6 +32,5 @@ extends = "default"
 workshop = [
     "1795825073", # USP AIO Workshop ID
     "2056229605", # USP Gear - ACE Workshop ID
-    "2026102601", # USP Gear Fix Workshop ID
 
 ]

@@ -13,4 +13,4 @@ class CfgPatches {
     };
 };
 
-#include "CfgWeapons.hpp"
+#include "Helmets.hpp"

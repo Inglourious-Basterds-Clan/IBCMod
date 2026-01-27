@@ -8,34 +8,82 @@ class CfgVehicles
     class USP_TACTICAL_PACK_CCT: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_CCT2: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_CCT3: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_CCT4: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_CCT5: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_CCT6: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_CCT7: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_CCT8: Bag_Base
     {
         maximumLoad=320;
+        tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+		tf_hasLRradio=1;
+		tf_encryptionCode="tf_west_radio_code";
+		tf_dialog="rt1523g_radio_dialog";
+		tf_subtype="digital_lr";
+		mass=80;
     };
     class USP_TACTICAL_PACK_PO1: Bag_Base
     {
@@ -285,9 +333,11 @@ class CfgVehicles
     };
     class USP_REEBOW_3DAP_ACC10_BLK: USP_REEBOW_3DAP_BLK{
         maximumLoad=300;
+        ace_logistics_wirecutter_hasWirecutter = 1;
     };
     class USP_REEBOW_3DAP_ACC1_BLK: USP_REEBOW_3DAP_BLK{
         maximumLoad=300;
+        ace_logistics_wirecutter_hasWirecutter = 1;
     };
     class USP_REEBOW_3DAP_ACC2_BLK: USP_REEBOW_3DAP_BLK{
         maximumLoad=300;
@@ -303,9 +353,11 @@ class CfgVehicles
     };
     class USP_REEBOW_3DAP_ACC6_BLK: USP_REEBOW_3DAP_BLK{
         maximumLoad=300;
+        ace_logistics_wirecutter_hasWirecutter = 1;
     };    
     class USP_REEBOW_3DAP_ACC7_BLK: USP_REEBOW_3DAP_BLK{
         maximumLoad=300;
+        ace_logistics_wirecutter_hasWirecutter = 1;
     };
     class USP_REEBOW_3DAP_ACC8_BLK: USP_REEBOW_3DAP_BLK{
         maximumLoad=300;
@@ -315,11 +367,31 @@ class CfgVehicles
     };
     class USP_PACK_BREACHER: Bag_Base{
         maximumLoad=115;
+        ace_logistics_wirecutter_hasWirecutter = 1;
     };
     class USP_PACK_FASTHAWK: Bag_Base{
         maximumLoad=150;
     };
     class USP_PACK_POINTMAN: Bag_Base{
         maximumLoad=150;
+    };
+
+    class USP_ZIPON_PANEL_CPC_BLK;
+    class USP_ZIPON_PANEL_CPC_BC_BLK: USP_ZIPON_PANEL_CPC_BLK {
+        ace_logistics_wirecutter_hasWirecutter = 1;
+    };
+    class USP_ZIPON_PANEL_CPC_BC_SMK_BLK: USP_ZIPON_PANEL_CPC_BLK {
+        ace_logistics_wirecutter_hasWirecutter = 1;
+    };
+    class USP_ZIPON_PANEL_CPC_BC_SM_BLK: USP_ZIPON_PANEL_CPC_BLK {
+        ace_logistics_wirecutter_hasWirecutter = 1;
+    };
+
+    class USP_ZIPON_PACK_CPC_BLK;
+    class USP_ZIPON_PACK_CPC_BC_BLK: USP_ZIPON_PACK_CPC_BLK {
+        ace_logistics_wirecutter_hasWirecutter = 1;
+    };
+    class USP_ZIPON_PACK_CPC_BC_SM_BLK: USP_ZIPON_PACK_CPC_BLK {
+        ace_logistics_wirecutter_hasWirecutter = 1;
     };
 };
