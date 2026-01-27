@@ -97,12 +97,14 @@ if (GVAR(requireRadio)) then {
     [["ACRE_PRC152"], _unitItems, 1, ["AN/PRC-152", "AN/PRC-152"], _missing, _missingClasses] call FUNC(countItem);
 };
 
-[["ACE_elasticBandages","ACE_packingBandage"], _unitItems,
-                                      15, ["Bandaż", "Bandaże"], _missing, _missingClasses] call FUNC(countItem);
+[["ACE_elasticBandages","ACE_packingBandage"], _unitItems, 15, ["Bandaż", "Bandaże"], _missing, _missingClasses] call FUNC(countItem);
 [["ACE_splint"], _unitItems,           2, ["Szyna", "Szyny"], _missing, _missingClasses] call FUNC(countItem);
-[["ACE_morphine"], _unitItems,         2, ["Morfina", "Morfiny"], _missing, _missingClasses] call FUNC(countItem);
-[["ACE_epinephrine"], _unitItems,      2, ["Epinefryna", "Epinefryny"], _missing, _missingClasses] call FUNC(countItem);
-[["ACE_tourniquet"], _unitItems,       3, ["Staza", "Stazy"], _missing, _missingClasses] call FUNC(countItem);
+[["ACE_morphine"], _unitItems,         1, ["Morfina", "Morfiny"], _missing, _missingClasses] call FUNC(countItem);
+[["kat_Painkiller"], _unitItems,     1, ["Combat Pill Pack", "Combat Pill Packs"], _missing, _missingClasses] call FUNC(countItem);
+[["kat_chestSeal"], _unitItems,      2, ["Chest Seal", "Chest Seals"], _missing, _missingClasses] call FUNC(countItem);
+[["kat_ncdKit"], _unitItems,        1, ["NCD Kit", "NCD Kits"], _missing, _missingClasses] call FUNC(countItem);
+[["ACE_epinephrine"], _unitItems,      1, ["Epinefryna", "Epinefryny"], _missing, _missingClasses] call FUNC(countItem);
+[["ACE_tourniquet"], _unitItems,       2, ["Staza", "Stazy"], _missing, _missingClasses] call FUNC(countItem);
 [["SmokeShell"], _unitItems,           2, ["Granat dymny", "Granaty dymne"], _missing, _missingClasses] call FUNC(countItem);
 
 
