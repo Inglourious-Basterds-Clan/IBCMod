@@ -1,0 +1,9 @@
+PREP(addZeusModules);
+PREP(adjustTime);
+PREP(adjustTimeLocal);
+PREP(disable);
+PREP(enable);
+PREP(moduleRespawn);
+PREP(onPlayerKilledOneLife);
+PREP(onPlayerRespawnOneLife);
+PREP(toggle);

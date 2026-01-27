@@ -1,10 +1,10 @@
 class CfgVehicles {
     class ACE_Module;
-    class GVAR(Module): ACE_Module {
+    class GVAR(Intro): ACE_Module {
         author = ECSTRING(main,Author);
         category = "IBC";
         displayName = "Intro";
-        function = QFUNC(moduleInit);
+        function = QFUNC(moduleInitIntro);
         scope = 2;
         isGlobal = 1; // Global
         isTriggerActivated = 0;
@@ -23,23 +23,17 @@ class CfgVehicles {
                 typeName = "STRING";
                 defaultValue = "Mission Author";
             };
+            class MissionCustomText {
+                displayName = CSTRING(MissionCustomText);
+                description = CSTRING(MissionCustomText_Desc);
+                typeName = "STRING";
+                defaultValue = "";
+            };
             class Timer {
                 displayName = CSTRING(Timer);
                 description = CSTRING(Timer_Desc);
                 typeName = "STRING";
-                defaultValue = 15;
-            };
-            class CustomText {
-                displayName = CSTRING(CustomText);
-                description = CSTRING(CustomText_Desc);
-                typeName = "STRING";
-                defaultValue = "Custom Text";
-            };
-            class Terrain {
-                displayName = CSTRING(Terrain);
-                description = CSTRING(Terrain_Desc);
-                typeName = "STRING";
-                defaultValue = "Stratis";
+                defaultValue = 60;
             };
         };
         class ModuleDescription {

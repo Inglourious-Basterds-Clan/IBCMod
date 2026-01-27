@@ -2,7 +2,7 @@
 workshop = [
     "450814997", # CBA_A3's Workshop ID
     "463939057", # ACE3's Workshop ID
-    "2369477168", # Advanced Developer Tools's Workshop ID
+    "3499977893", # Advanced Developer Tools's Workshop ID
     "1638341685" # DUI Workshop ID
 ]
 
@@ -19,4 +19,19 @@ workshop = [
     "843425103", # RHSAFRF's Workshop ID
     "843593391", # RHSGREF's Workshop ID
     "843632231" # RHSSAF's Workshop ID
+]
+
+[fow]
+extends = "default"
+workshop = [
+    "891433622", # FOW's Workshop ID
+]
+
+[usp]
+extends = "default"
+workshop = [
+    "1795825073", # USP AIO Workshop ID
+    "2056229605", # USP Gear - ACE Workshop ID
+    "2026102601", # USP Gear Fix Workshop ID
+
 ]

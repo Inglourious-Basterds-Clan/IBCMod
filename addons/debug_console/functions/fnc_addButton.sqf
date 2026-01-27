@@ -13,12 +13,12 @@
  * None
  *
  * Example:
- * [["Test", "This is a button"], {hint "Button was clicked"}] call afm_debug_console_fnc_addButton
+ * [["Test", "This is a button"], {hint "Button was clicked"}] call ibc_debug_console_fnc_addButton
  *
  * Public: Yes
  */
 
-params [["_name", "", ["", []]], ["_code", "", [{}]]];
+params [["_name", "", ["", []]], ["_code", {}, [{}]]];
 _name params [["_displayName", "", [""]], ["_tooltip", "", [""]]];
 
 GVAR(buttons) pushBack [_displayName, _tooltip, _code];

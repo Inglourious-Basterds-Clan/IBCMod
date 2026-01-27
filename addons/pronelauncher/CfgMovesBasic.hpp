@@ -1,6 +1,5 @@
 class CfgMovesBasic {
-    class Default;
-    class NoActions;
+    class NoActions {};
     class Actions {
         class CivilStandActions;
         class CivilProneActions: CivilStandActions {

@@ -10,6 +10,9 @@
             <English>Inglorious Basterds Clan</English>
             <Polish>Inglorious Basterds Clan</Polish>
         </Key>
+        <Key ID="STR_IBC_Main_Category">
+            <English>IBC</English>
+        </Key>
         <Key ID="STR_IBC_Main_Mission_Items_Contraband_Name">
             <English>Contraband</English>
         </Key>
@@ -21,6 +24,9 @@
         </Key>
         <Key ID="STR_IBC_Main_Mission_Items_Supplies_Name">
             <English>Supplies</English>
+        </Key>
+        <Key ID="STR_IBC_Main_Url">
+            <English>https://github.com/MiszczuZPolski/IBCMod</English>
         </Key>
     </Package>
 </Project>
