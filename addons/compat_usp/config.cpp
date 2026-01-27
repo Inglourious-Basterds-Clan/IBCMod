@@ -9,7 +9,7 @@ class CfgPatches {
 
         VERSION_CONFIG;
 
-        requiredAddons[] = {"USP_Gear_Acc", "USP_Gear_NVG", "ibc_main"};
+        requiredAddons[] = {"USP_Gear_Acc", "USP_Gear_NVG", "ibc_main", "USP_Gear_Pack"};
         skipWhenMissingDependencies = 1;
 
         units[] = {};
@@ -19,5 +19,7 @@ class CfgPatches {
 
 #include "CfgWeapons.hpp"
 #include "CfgVehicles.hpp"
+
+#include "compat_usp_ace_hearing/Helmets.hpp"
 
 #include "BettrIR_Config.hpp"
