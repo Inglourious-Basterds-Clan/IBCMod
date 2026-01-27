@@ -9,81 +9,81 @@ class CfgVehicles
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_CCT2: Bag_Base
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_CCT3: Bag_Base
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_CCT4: Bag_Base
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_CCT5: Bag_Base
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_CCT6: Bag_Base
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_CCT7: Bag_Base
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_CCT8: Bag_Base
     {
         maximumLoad=320;
         tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
-		tf_hasLRradio=1;
-		tf_encryptionCode="tf_west_radio_code";
-		tf_dialog="rt1523g_radio_dialog";
-		tf_subtype="digital_lr";
-		mass=80;
+        tf_hasLRradio=1;
+        tf_encryptionCode="tf_west_radio_code";
+        tf_dialog="rt1523g_radio_dialog";
+        tf_subtype="digital_lr";
+        mass=80;
     };
     class USP_TACTICAL_PACK_PO1: Bag_Base
     {
