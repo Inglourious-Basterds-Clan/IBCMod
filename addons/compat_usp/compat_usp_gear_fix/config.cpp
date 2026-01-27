@@ -1,18 +1,16 @@
 #include "script_component.hpp"
 
 class CfgPatches {
-    class ADDON {
+    class SUBADDON {
         name = COMPONENT_NAME;
-        units[] = {
-            QGVAR(Intro)
-        };
+        units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"ibc_main", "ace_common"};
-        author = ECSTRING(main,Author);
+        requiredAddons[] = {"ibc_main", "USP_Armor_Fix"};
+        skipWhenMissingDependencies = 1;
+        author = "kolmipilot";
         VERSION_CONFIG;
     };
 };
 
-#include "CfgEventHandlers.hpp"
 #include "CfgVehicles.hpp"

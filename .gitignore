@@ -92,3 +92,4 @@ target/
 *.exe
 .hemttout/
 utils/**/*.txt
+.hemttprivatekey

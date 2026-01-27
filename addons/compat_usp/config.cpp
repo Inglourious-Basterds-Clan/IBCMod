@@ -20,6 +20,4 @@ class CfgPatches {
 #include "CfgWeapons.hpp"
 #include "CfgVehicles.hpp"
 
-#include "compat_usp_ace_hearing/Helmets.hpp"
-
 #include "BettrIR_Config.hpp"
