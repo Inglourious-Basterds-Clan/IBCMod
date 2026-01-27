@@ -1,7 +1,7 @@
 // Macro for standard helmet without ACE hearing protection (armor 6)
 #define USP_HELMET(HelmetClass,BaseClass) \
 class HelmetClass: BaseClass { \
-    class ItemInfo: ItemInfo { \
+    class ItemInfo: HeadgearItem { \
         mass = 30; \
         class HitpointsProtectionInfo { \
             class Head { \
@@ -19,7 +19,7 @@ class HelmetClass: BaseClass { \
     ace_hearing_protection = 0.8; \
     ace_hearing_lowerVolume = 0.1; \
     ace_hearing_hasEHP = 1; \
-    class ItemInfo: ItemInfo { \
+    class ItemInfo: HeadgearItem { \
         mass = 30; \
         class HitpointsProtectionInfo { \
             class Head { \
@@ -37,7 +37,7 @@ class HelmetClass: BaseClass { \
     ace_hearing_protection = 0.8; \
     ace_hearing_lowerVolume = 0.1; \
     ace_hearing_hasEHP = 1; \
-    class ItemInfo: ItemInfo { \
+    class ItemInfo: HeadgearItem { \
         class HitpointsProtectionInfo { \
             class Head { \
                 hitpointName = "HitHead"; \
@@ -50,7 +50,7 @@ class HelmetClass: BaseClass { \
 
 #define USP_BASECAP(HelmetClass,BaseClass) \
 class HelmetClass: BaseClass { \
-    class ItemInfo: ItemInfo { \
+    class ItemInfo: HeadgearItem { \
         class HitpointsProtectionInfo { \
             class Head { \
                 hitpointName = "HitHead"; \
@@ -67,13 +67,8 @@ class ItemCore: Default {};
 class HeadgearItem: InventoryItem_Base_F {};
 class H_HelmetB: ItemCore {
     class ItemInfo: HeadgearItem {
-        mass = 30;
-
         class HitpointsProtectionInfo {
-            class Head {
-                armor = 6;
-                passThrough = 0.5;
-            };
+            class Head {};
         };
     };
 };
@@ -245,7 +240,7 @@ USP_HELMET(USP_MICH_TC2000_IB,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_IR,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_LP,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_MC,USP_MICH_TC2000);
-USP_HELMET_ACE(USP_HEAD_MICH_TC2002_TAN,USP_MICH_TC2000);
+USP_HELMET_ACE(USP_HEAD_MICH_TC2002_TAN,H_HelmetB);
 USP_HELMET(USP_MICH_TC2000_NS,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_PC,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_PH,USP_MICH_TC2000);
