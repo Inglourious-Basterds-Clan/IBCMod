@@ -1,9 +1,6 @@
 # No More Aircraft Bouncing
 
-This small mod attempts to make aircraft crashes look a little more realistic by keeping the aircraft on the ground and adding some more particle effects.
+Mały mod który czyni katastrofy lotnicze bardziej realistycznymi, utrzymując samolot na ziemi i dodając więcej efektów cząsteczek.
 
-### Author
+## Autor
 - [SceptreOfficial](https://github.com/SceptreOfficial)
-
-### License
-- [GPLv2](./LICENSE)

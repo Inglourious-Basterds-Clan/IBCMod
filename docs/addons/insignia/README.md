@@ -1,7 +1,7 @@
 ## Insignia
 
-Adds insignias
+Dodaje insygnie dostępne w arsenale ACE.
 
-## Authors
+## Autorzy
 
 - [MiszczuZPolski](https://github.com/MiszczuZPolski)

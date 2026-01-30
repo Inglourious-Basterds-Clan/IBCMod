@@ -1,7 +1,7 @@
 ## Screenshot
 
-Screenshot mode for taking HUD free screenshots
+Dodaje możliwość wykonywania zrzutów ekranu bez widocznego GUI. GUI można wyłączyc pod klawiszem F10. Automatyczne wyłaczenie GUI, zrobienie screenshota, po cyzm przywrócenie GUI dostepne jest pod klawiszem F11.
 
-### Authors
+### Autorzy
 
 - [BrettMayson](https://github.com/BrettMayson)

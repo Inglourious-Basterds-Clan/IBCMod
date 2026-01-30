@@ -1,9 +1,7 @@
 # Admin
 
-Adds a whitelist for players allowed to change cba settings without logged as admin and adds debug console for them.
+Dodaje listę dozwolonych graczy, którzy mogą zmieniać ustawienia cba bez logowania się jako administrator, oraz dodaje dla nich konsolę debugowania.
 
-For IBC Mod, source code was taken from [Arma Forces Mod](https://github.com/ArmaForces/Mods/tree/master/addons/admin), which is licensed under GPL-2.0.
-
-### Authors
+### Autorzy
 
 - [veteran29](https://github.com/veteran29)

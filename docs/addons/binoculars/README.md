@@ -1,6 +1,6 @@
-# Binoculars
+# Binoculars in planes
 
-Increases zoom in planes and helicopters, simulating use of binoculars.
+Zwiększa maksymalne przybliżenie w samolotach i helikopterach symulując użycie lornetki w kokpicie.
 
 ## Authors
 

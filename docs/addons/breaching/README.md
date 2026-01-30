@@ -1,13 +1,9 @@
 # Breaching
 
-Adds a breaching charge capable of destroying blocked doors and demolishing walls with minimal collateral damage.
+Moduł dodający ładunki wybuchowe do niszczenia zablokowanych drzwi i ścian z minimalnym uszkodzeniem otoczenia. Dostępny w kategori ładunków wybuchowych w ace arsenal. Nie wymaga zewnętrznego detonatora. Sprawdza sie także do wysadzania IED-ów.
 
-This is an alternate and smaller implementation of [Breaching Charge](https://github.com/ampersand38/Breaching-Charge) by Ampersand. Source available [ampersand38/Breaching-Charge](https://github.com/ampersand38/Breaching-Charge) under MIT License, however this implementation is mostly inspired by it and most of the code has been rewritten in unscheduled environment instead.
+### Autorzy
 
-For IBC Mod, source code was taken from [Synixe Contractors Mod](https://github.com/SynixeContractors/Mod/tree/main/addons/breaching), which is licensed under GPL-3.0.
-
-### Authors
-
-- [Ampersand](https://github.com/ampersand38) (original)
+- [Ampersand](https://github.com/ampersand38)
 - [MikeMF](https://github.com/mike-mf)
 - [Jonpas](https://github.com/jonpas)

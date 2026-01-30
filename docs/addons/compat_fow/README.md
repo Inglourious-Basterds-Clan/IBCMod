@@ -1,7 +1,7 @@
 # Compat FOW
 
-Adds tracers for weapons and increases zoom and pen value for tanks
+Dodaje ślady dla broni i zwiększa powiększenie oraz przebijanie dla czołgów.
 
-## Authors
+## Autorzy
 
 - [MiszczuZPolski](https://github.com/MiszczuZPolski)

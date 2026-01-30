@@ -1,25 +1,25 @@
 ## Spectator
 
-Settings based spectator for dead and unconscious players.
+Tryb obserwatora oparty na ustawieniach dla martwych i nieprzytomnych graczy.
 
-## Real time management
+# Zarządzanie w czasie rzeczywistym
 
-You can enable/disable spectator through CBA settings at any given time. All settings can be changed and will instantly trigger spectator interface refresh.
+Możesz włączyć/wyłączyć obserwatora w dowolnym momencie za pomocą ustawień CBA. Wszystkie ustawienia można zmienić, a interfejs widza zostanie natychmiast odświeżony.
 
-## Smart interface refresh
+# Inteligentne odświeżanie interfejsu
 
-Terminating and reinitializing spectator almost does not bother player, as old position and target focus are reestablished instantly.
+Zakończenie i ponowne uruchomienie obserwatora praktycznie nie przeszkadza graczowi, ponieważ stara pozycja i cel są natychmiast przywracane.
 
-## Highly customizable
+# Wysoce konfigurowalny
 
-- Free camera
-- Third Person Perspective
-- Sides allowed for spectating (player side, friendly sides or all)
-- Supports spectating player group or player only
-- Civilian side spectating
-- AI spectating
-- All of above separate for unconscious players!
+- Swobodna kamera
+- Perspektywa trzecioosobowa
+- Strony do oglądania (strona gracza, sojusznicze lub wszystkie)
+- Obsługa oglądania grup graczy lub tylko graczy
+- Widzenie cywilne
+- Widzenie AI
+- Wszystkie powyższe opcje są oddzielne dla nieprzytomnych graczy!
 
-### Authors
+## Autorzy
 
 - [3Mydlo3](http://github.com/3Mydlo3)

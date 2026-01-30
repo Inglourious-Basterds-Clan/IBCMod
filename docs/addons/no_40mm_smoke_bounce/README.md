@@ -1,7 +1,7 @@
 ## No 40mm bounce
 
-Removes bounce on 40mm UGL grenades
+Usuwa odbijanie się granatów 40mm UGL.
 
-## Authors
+## Autorzy
 
 - [MiszczuZPolski](https://github.com/MiszczuZPolski)

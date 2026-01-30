@@ -1,6 +1,6 @@
 # Prone Launcher
 
-Adds ability to shoot from launcher in prone position
+Dodaje możliwość strzelania z wyrzutnika granatów w pozycji leżącej.
 
-### Author
+## Autor
 - [PiZZADOX](https://github.com/PiZZADOX)

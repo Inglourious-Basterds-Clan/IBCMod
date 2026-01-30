@@ -1,8 +1,8 @@
 # Compat CSA38
 
-Changes zoom on weapons to vanilla values and description on magazines.
+Zmienia powiększenie broni i opisy magazynków do wartości wanilii.
 
-## Authors
+## Autorzy
 
 - [MiszczuZPolski](https://github.com/MiszczuZPolski)
 - Majestyk

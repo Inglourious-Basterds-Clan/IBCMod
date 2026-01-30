@@ -1,8 +1,7 @@
 # Mission autotest
 
+Dodaje automatyczne testowanie misji. Autotest jest dostępny w zakładce narzędzia w edytorze Eden.
 
-Adds mission autotest, integrated from [TMF](https://github.com/TMF3/TMF).
-
-### Authors
+## Autorzy
 
 - [Jonpas](https://github.com/jonpas)
