@@ -1,4 +1,4 @@
-# About
+# Breaching
 
 Adds a breaching charge capable of destroying blocked doors and demolishing walls with minimal collateral damage.
 

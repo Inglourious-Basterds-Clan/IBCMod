@@ -1,4 +1,4 @@
-# About
+# Compat FOW
 
 Adds tracers for weapons and increases zoom and pen value for tanks
 

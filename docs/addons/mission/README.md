@@ -1,3 +1,0 @@
-# About
-
-Missions function library

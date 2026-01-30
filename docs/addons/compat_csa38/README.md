@@ -1,4 +1,4 @@
-# About
+# Compat CSA38
 
 Changes zoom on weapons to vanilla values and description on magazines.
 
