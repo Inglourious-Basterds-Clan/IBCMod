@@ -15,6 +15,5 @@
 * [No 40mm Smoke Bounce](addons/no_40mm_smoke_bounce/README.md)
 * [No More Aircraft Bouncing](addons/no_more_aircraft_bouncing/README.md)
 * [Prone Launcher](addons/pronelauncher/README.md)
-* [Respawn](addons/respawn/README.md)
 * [Screenshot](addons/screenshot/README.md)
 * [Spectator](addons/spectator/README.md)
