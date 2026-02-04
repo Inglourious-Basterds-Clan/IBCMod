@@ -17,3 +17,4 @@
 * [Prone Launcher](addons/pronelauncher/README.md)
 * [Screenshot](addons/screenshot/README.md)
 * [Spectator](addons/spectator/README.md)
+* [Respawn](addons/respawn/README.md)
