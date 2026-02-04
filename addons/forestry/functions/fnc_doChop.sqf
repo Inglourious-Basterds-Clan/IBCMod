@@ -28,7 +28,7 @@ if (_intersectObj isEqualTo objNull && {_parentObject isEqualTo objNull}) exitWi
     [[QPATHTOF(resources\tree.paa), 2.0], ["Nothing to cut down"]] call CBA_fnc_notify;
 };
 
-private _time=35;
+private _time = 35;
 private _finalObj = objNull;
 private _obj = (nearestTerrainObjects [_intersectObj, ["TREE"], 0, false, true]) #0;
 if(!(isNil "_obj"))then{
@@ -38,15 +38,15 @@ _finalObj=_obj;
 
 _obj = (nearestTerrainObjects [_intersectObj, ["SMALL TREE"], 0, false, true]) #0;
 if(!(isNil "_obj"))then{
-_time=GVAR(small_tree_time);
-_finalObj=_obj;
+_time = GVAR(small_tree_time);
+_finalObj = _obj;
 };
 
 
 _obj = (nearestTerrainObjects [_intersectObj, ["BUSH"], 0, false, true]) #0;
 if(!(isNil "_obj"))then{
-_time=GVAR(bush_time);
-_finalObj=_obj;
+_time = GVAR(bush_time);
+_finalObj = _obj;
 };
 
 
