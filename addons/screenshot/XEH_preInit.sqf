@@ -3,7 +3,7 @@ ADDON = false;
 #include "XEH_PREP.hpp"
 
 [
-    "IBC Screenshot",
+    ["IBC", "Screenshot"],
     QGVAR(screenshot),
     "HUD Free Screenshot",
     { call FUNC(screenshot); },
@@ -12,7 +12,7 @@ ADDON = false;
 
 GVAR(screenshotMode) = false;
 [
-    "IBC Screenshot",
+    ["IBC", "Screenshot"],
     QGVAR(screenshotToggle),
     "Toggle Screenshot Mode",
     { call FUNC(screenshotMode); },

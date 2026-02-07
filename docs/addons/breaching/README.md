@@ -1,6 +1,6 @@
 # Breaching
 
-Moduł dodający ładunki wybuchowe do niszczenia zablokowanych drzwi i ścian z minimalnym uszkodzeniem otoczenia. Dostępny w kategori ładunków wybuchowych w ace arsenal. Wymaga zewnętrznego detonatora. Sprawdza sie także do wysadzania IED-ów.
+Moduł dodający ładunki wybuchowe do niszczenia zablokowanych drzwi i ścian z minimalnym uszkodzeniem otoczenia. Dostępny w kategorii ładunków wybuchowych w ACE Arsenal. Wymaga zewnętrznego detonatora. Sprawdza sie także do wysadzania IED-ów.
 
 ### Autorzy
 

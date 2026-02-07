@@ -1,6 +1,6 @@
 # Compat FOW
 
-Dodaje ślady dla broni i zwiększa powiększenie oraz przebijanie dla czołgów.
+Dodaje warianty amunicji ze smugaczami i zwiększa zoom dla czołgu M5A1.
 
 ## Autorzy
 

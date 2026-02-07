@@ -1,6 +1,6 @@
 # Compat CSA38
 
-Zmienia powiększenie broni i opisy magazynków do wartości wanilii.
+Zmienia zoom podczas celowania i opisy magazynków.
 
 ## Autorzy
 
