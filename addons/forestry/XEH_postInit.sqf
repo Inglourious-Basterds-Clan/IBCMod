@@ -4,7 +4,7 @@ if (hasInterface) then {
 
     GVAR(chopping) = false;
 
-    [["TAC", "Forestry"],
+    [["IBC", "Forestry"],
         QGVAR(forestryID1),
         ["Cut Down Tree", "Destroy Nature"],
         "",
@@ -15,7 +15,7 @@ if (hasInterface) then {
         }
     ] call CBA_fnc_addKeybind;
 
-    [["TAC", "Forestry"],
+    [["IBC", "Forestry"],
         QGVAR(forestryID2),
         ["Flatten Grass", "Destroy Nature"],
         "",
