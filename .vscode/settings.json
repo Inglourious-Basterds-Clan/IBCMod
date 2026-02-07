@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.hemttout": true,
+        "**/include": true,
+        "**/extras": true
+    },
+    "files.insertFinalNewline": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tools",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
