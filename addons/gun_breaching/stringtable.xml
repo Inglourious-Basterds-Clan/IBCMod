@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="IBC">
+    <Package name="Gun_breaching">
+        <Key ID="STR_IBC_Gun_breaching_Setting_Additional_Ammo_Chance">
+            <English>Additional Ammunition Chance</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Additional_Ammo_Chance_Disc">
+            <English>Chance for additional ammunition to breach a door. 0 will never breach; 100 will always breach.</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Additional_Ammos">
+            <English>Additional Ammunition</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Additional_Ammos_Disc">
+            <English>Ammunition that can breach doors with reduced effectiveness</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Breaching_Ammos">
+            <English>Breaching Ammunition</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Breaching_Ammos_Disc">
+            <English>Ammunition that can breach a door with a single shot</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Category_Breaching">
+            <English>IBC - Breaching</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Enable_Breaching">
+            <English>Enable Breaching</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_Enable_Breaching_Disc">
+            <English>Enable or disable breaching by firing weapons</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_allow_additional_ammos">
+            <English>Allow Additional Ammunition to breach doors</English>
+        </Key>
+        <Key ID="STR_IBC_Gun_breaching_Setting_allow_additional_ammos_disc">
+            <English>Allow additional ammunition to breach doors with a lower chance</English>
+        </Key>
+    </Package>
+</Project>
