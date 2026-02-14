@@ -9,7 +9,7 @@ if(!GVAR(EnableBreaching)) exitWith {};
 
     if (_ammo in GVAR(availbreachingAmmos)) then {
         _projectile addEventHandler ["HitPart", {
-	        params ["_projectile", "_hitEntity", "_projectileOwner", "_pos"];
+            params ["_projectile", "_hitEntity", "_projectileOwner", "_pos"];
             if(_projectile distance _projectileOwner < 10) then { // prevent breaching from long range
                 [_projectile, _hitEntity, _projectileOwner, _pos] call FUNC(hitPart);
             };
@@ -31,4 +31,3 @@ if(!GVAR(EnableBreaching)) exitWith {};
     };
     
 }] call CBA_fnc_addEventHandler;
-
