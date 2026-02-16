@@ -8,15 +8,6 @@
  * 1: Hit Entity <OBJECT>
  * 2: Projectile Owner <OBJECT>
  * 3: Position of hit <ARRAY>
- * 4: Velocity of projectile <ARRAY>
- * 5: Normal of hit surface <ARRAY>
- * 6: Components of hit entity <ARRAY>
- * 7: Radius of explosion <NUMBER>
- * 8: Surface type of hit <STRING>
- * 9: Instigator of hit <OBJECT>
- * 0: Charge <OBJECT>
- * 0: Charge <OBJECT>
- * 0: Charge <OBJECT>
  *
  * Return Value:
  * None
