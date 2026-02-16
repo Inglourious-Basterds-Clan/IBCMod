@@ -44,7 +44,7 @@
     "EDITBOX",
     [LLSTRING(SETTING_ADDITIONAL_AMMOS), LLSTRING(SETTING_ADDITIONAL_AMMOS_DISC)],
     LLSTRING(SETTING_CATEGORY_Breaching),
-    "'B_556x45_Ball', 'B_762x39_Ball_F', 'B_762x51_Ball'",
+    "'BulletBase', 'B_556x45_Ball', 'B_762x39_Ball_F', 'B_762x51_Ball'",
     1,
     {
         private _array = [_this, "CfgAmmo"] call FUNC(getList);
