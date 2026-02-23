@@ -13,7 +13,7 @@ Dodaje możliwość wyważania zamkniętych drzwi poprzez ostrzelanie ich odpowi
 
 ### Funkcje
 - Amunicja do wyważania — amunicja, która otwiera każde drzwi jednym strzałem. Wymaga wskazania konkretnej klasy amunicji. Działa w odległości do 10 m.
-- Dodatkowa amunicja — amunicja, która otwiera drzwi mniej skutecznie; szansa na wyważenie jest konfigurowalna w ustawieniach addonów. Ustawienie wykorzystuje dziedziczenie klas, co ułatwia konfigurację. Domyślnie działa na KAŻDY pocisk, nawet pistoletowy. Możliwe jest zmienienie tego w usatwieniach na bardziej sprecyzowane klasy. Działa w odległości do 5 m.
+- Dodatkowa amunicja — amunicja, która otwiera drzwi mniej skutecznie; szansa na wyważenie jest konfigurowalna w ustawieniach addonów. Ustawienie wykorzystuje dziedziczenie klas, co ułatwia konfigurację. Domyślnie działa na wszytskie naboje karabinowe z podstawki, rhs, cup, UK3CB. Możliwe jest zmienienie tego w usatwieniach na bardziej sprecyzowane klasy. Działa w odległości do 5 m.
 
 ### Źródła
 - [Synixe Contractors Mod](https://github.com/SynixeContractors/Mod/tree/main/addons/breaching)

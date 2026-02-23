@@ -44,7 +44,7 @@
     "EDITBOX",
     [LLSTRING(SETTING_ADDITIONAL_AMMOS), LLSTRING(SETTING_ADDITIONAL_AMMOS_DISC)],
     LLSTRING(SETTING_CATEGORY_Breaching),
-    "'BulletBase', 'B_556x45_Ball', 'B_762x39_Ball_F', 'B_762x51_Ball'",
+    "'B_556x45_Ball', 'B_762x39_Ball_F', 'B_762x51_Ball', 'rhs_ammo_762x51_M80_Ball', 'rhs_ammo_792x57_Ball', 'rhs_ammo_792x33_SmE_ball', 'rhs_ammo_762x63_M2B_ball', 'rhs_ammo_762x63_M1T_tracer', 'rhs_ammo_762x25_Ball', 'rhs_ammo_75x55_Ball', 'B_127x99_Ball', 'B_9x21_Ball', 'B_338_Ball', 'rhs_B_762x54_Ball', 'rhs_ammo_45ACP_MHP'",
     1,
     {
         private _array = [_this, "CfgAmmo"] call FUNC(getList);
