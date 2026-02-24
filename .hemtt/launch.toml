@@ -25,6 +25,7 @@ workshop = [
 extends = "default"
 workshop = [
     "891433622", # FOW's Workshop ID
+    "1399447232" # US Gear
 ]
 
 [usp]
