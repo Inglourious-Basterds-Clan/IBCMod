@@ -1,11 +1,11 @@
 params ["_unit","_item"];
 
 switch (_item) do {
-	/// Garand 12x Bandoleers
-	case "G_simc_US_Bandoleer_left": {
-		removeGoggles _unit;
-		_unit addMagazines ["ibc_compat_fow_8Rnd_762x63_T", 12];
-	};
+    /// Garand 12x Bandoleers
+    case "G_simc_US_Bandoleer_left": {
+        removeGoggles _unit;
+        _unit addMagazines ["ibc_compat_fow_8Rnd_762x63_T", 12];
+    };
     case "G_simc_US_Bandoleer_left_ligt": {
         removeGoggles _unit;
         _unit addMagazines ["ibc_compat_fow_8Rnd_762x63_T", 12];
@@ -41,8 +41,8 @@ switch (_item) do {
 
 
 
-	/// Shows up if you fucked something up.
-	default {
-		hintSilent "You fucked with something.";
-	};
+    /// Shows up if you fucked something up.
+    default {
+        hintSilent "You fucked with something.";
+    };
 };

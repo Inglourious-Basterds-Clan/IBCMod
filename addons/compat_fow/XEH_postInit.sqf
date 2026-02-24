@@ -2,31 +2,31 @@
 
 /// Garand
 [
-	"G_simc_US_Bandoleer_left",
-	"GOGGLES",
-	"Rozpakuj 12 klipów do Garanda",
-	nil,
+    "G_simc_US_Bandoleer_left",
+    "GOGGLES",
+    "Rozpakuj 12 klipów do Garanda",
     nil,
-	[
-		{true},{goggles player == "G_simc_US_Bandoleer_left"}
-	],
-	{
-		[player, goggles player] call FUNC(unpack);
-	}
+    nil,
+    [
+        {true},{goggles player == "G_simc_US_Bandoleer_left"}
+    ],
+    {
+        [player, goggles player] call FUNC(unpack);
+    }
 ] call CBA_fnc_addItemContextMenuOption;
 
 [
-	"G_simc_US_Bandoleer_left_ligt",
-	"GOGGLES",
-	"Rozpakuj 12 klipów do Garanda",
-	nil,
+    "G_simc_US_Bandoleer_left_ligt",
+    "GOGGLES",
+    "Rozpakuj 12 klipów do Garanda",
     nil,
-	[
-		{true},{goggles player == "G_simc_US_Bandoleer_left_ligt"}
-	],
-	{
-		[player, goggles player] call FUNC(unpack);
-	}
+    nil,
+    [
+        {true},{goggles player == "G_simc_US_Bandoleer_left_ligt"}
+    ],
+    {
+        [player, goggles player] call FUNC(unpack);
+    }
 ] call CBA_fnc_addItemContextMenuOption;
 
 /// Carbine
