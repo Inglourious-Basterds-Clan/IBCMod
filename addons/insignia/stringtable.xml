@@ -69,5 +69,13 @@
             <English>Anti Terror Terror Club</English>
             <Polish>Anti Terror Terror Club</Polish>
         </Key>
+         <Key ID="STR_IBC_Insignia_Tism">
+            <English>Tism Club</English>
+            <Polish>Tism Club</Polish>
+        </Key>
+         <Key ID="STR_IBC_Insignia_Edgy">
+            <English>Edgy</English>
+            <Polish>Edgy</Polish>
+        </Key>
     </Package>
 </Project>

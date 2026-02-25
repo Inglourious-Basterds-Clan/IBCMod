@@ -16,4 +16,6 @@ class CfgUnitInsignia {
     MACRO_UNITINSIGNIA(Resurs);
     MACRO_UNITINSIGNIA(Special);
     MACRO_UNITINSIGNIA(Terror);
+    MACRO_UNITINSIGNIA(Tism);
+    MACRO_UNITINSIGNIA(Edgy);
 };
