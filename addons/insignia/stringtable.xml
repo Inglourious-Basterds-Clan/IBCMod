@@ -13,6 +13,10 @@
             <English>Peace was never an option</English>
             <Polish>Peace was never an option</Polish>
         </Key>
+        <Key ID="STR_IBC_Insignia_Edgy">
+            <English>Edgy</English>
+            <Polish>Edgy</Polish>
+        </Key>
         <Key ID="STR_IBC_Insignia_Emeritus">
             <English>Emeritus</English>
             <Polish>Emeritus</Polish>
@@ -72,10 +76,6 @@
         <Key ID="STR_IBC_Insignia_Tism">
             <English>Tism Club</English>
             <Polish>Tism Club</Polish>
-        </Key>
-        <Key ID="STR_IBC_Insignia_Edgy">
-            <English>Edgy</English>
-            <Polish>Edgy</Polish>
         </Key>
     </Package>
 </Project>
