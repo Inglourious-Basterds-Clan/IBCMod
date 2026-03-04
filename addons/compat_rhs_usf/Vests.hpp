@@ -124,62 +124,62 @@ RHS_VEST_MEDIUM(rhsusf_mbav_rifleman,rhsusf_mbav_light);
 RHS_VEST_MEDIUM(rhsusf_mbav_mg,rhsusf_mbav_light);
 
 class rhsusf_mbav_grenadier: rhsusf_mbav_light
-	{
-		class ItemInfo: ItemInfo
-		{
-			class HitpointsProtectionInfo: HitpointsProtectionInfo
-			{
-				class Neck
-				{
-					hitpointName = "HitNeck";
-					armor = 0;
-					passThrough = 1;
-					simulation = "";	
-				};
-				class Chest
-				{
-					hitpointName = "HitChest";
-					armor = 12;
-					passThrough = 0.4;
-					simulation = "";	
-				};
-				class Arms
-				{
-					hitpointName = "HitArms";
-					armor = 0;
-					passThrough = 1;
-					simulation = "";	
-				};
-				class Diaphragm: Diaphragm
-				{
-					hitpointName = "HitDiaphragm";
-					armor = 12;
-					passThrough = 0.4;
-					simulation = "";	
-				};
-				class Abdomen
-				{
-					hitpointName = "HitAbdomen";
-					armor = 12;
-					passThrough = 0.4;
-					simulation = "";	
-				};
-				class Pelvis
-				{
-					hitpointName = "HitPelvis";
-					armor = 12;
-					passThrough = 0.4;
-					simulation = "";		
-				};
-				class Body: Body
-				{
-					hitpointName = "HitBody";
-					passThrough = 0.4;
-					simulation = "";	
-				};
-			};
-		};
-	};
+    {
+        class ItemInfo: ItemInfo
+        {
+            class HitpointsProtectionInfo: HitpointsProtectionInfo
+            {
+                class Neck
+                {
+                    hitpointName = "HitNeck";
+                    armor = 0;
+                    passThrough = 1;
+                    simulation = "";    
+                };
+                class Chest
+                {
+                    hitpointName = "HitChest";
+                    armor = 12;
+                    passThrough = 0.4;
+                    simulation = "";    
+                };
+                class Arms
+                {
+                    hitpointName = "HitArms";
+                    armor = 0;
+                    passThrough = 1;
+                    simulation = "";    
+                };
+                class Diaphragm: Diaphragm
+                {
+                    hitpointName = "HitDiaphragm";
+                    armor = 12;
+                    passThrough = 0.4;
+                    simulation = "";    
+                };
+                class Abdomen
+                {
+                    hitpointName = "HitAbdomen";
+                    armor = 12;
+                    passThrough = 0.4;
+                    simulation = "";    
+                };
+                class Pelvis
+                {
+                    hitpointName = "HitPelvis";
+                    armor = 12;
+                    passThrough = 0.4;
+                    simulation = "";        
+                };
+                class Body: Body
+                {
+                    hitpointName = "HitBody";
+                    passThrough = 0.4;
+                    simulation = "";    
+                };
+            };
+        };
+    };
 
 RHS_VEST_MEDIUM(rhsusf_mbav_medic,rhsusf_mbav_light);
 RHS_VEST_MEDIUM(rhsusf_plateframe_sapi,rhsusf_iotv_ocp_base);

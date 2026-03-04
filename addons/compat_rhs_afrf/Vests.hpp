@@ -136,72 +136,72 @@ RHS_VEST_MEDIUM(rhs_6sh46,Vest_Camo_Base);
 RHS_VEST_MEDIUM(rhs_vest_commander,Vest_Camo_Base);
 class rhs_vest_pistol_holster: rhs_vest_commander
 {
-	class ItemInfo: ItemInfo
-	{
-		class HitpointsProtectionInfo 
-		{
-			class Head
-			{
-				hitpointName="HitHead";
-				Armor=100;
-				passThrough = 0.1;
-			};
-			class Face
-			{
-				hitpointName="HitFace";
-				Armor=100;
-				passThrough = 0.1;
-			};
-			class Neck
-			{
-				hitpointName = "HitNeck";
-				Armor=100;
-				passThrough = 0.1;
-				simulation = "";	
-			};
-			class Chest
-			{
-				hitpointName = "HitChest";
-				Armor=100;
-				passThrough = 0.1;
-				simulation = "";	
-			};
-			class Arms
-			{
-				hitpointName = "HitArms";
-					Armor=100;
-				passThrough = 0.1;
-				simulation = "";	
-			};
-			class Diaphragm
-			{
-				hitpointName = "HitDiaphragm";
-				Armor=100;
-				passThrough = 0.1;
-				simulation = "";	
-			};
-			class Abdomen
-			{
-				hitpointName = "HitAbdomen";
-				Armor=100;
-				passThrough = 0.1;
-				simulation = "";	
-			};
-			class Pelvis
-			{
-				hitpointName = "HitPelvis";
-				Armor=100;
-				passThrough = 0.1;
-				simulation = "";		
-			};
-			class Body
-			{
-				hitpointName = "HitBody";
-				passThrough = 0.1;
-				simulation = "";	
-			};
-		};
-	};
+    class ItemInfo: ItemInfo
+    {
+        class HitpointsProtectionInfo 
+        {
+            class Head
+            {
+                hitpointName="HitHead";
+                Armor=100;
+                passThrough = 0.1;
+            };
+            class Face
+            {
+                hitpointName="HitFace";
+                Armor=100;
+                passThrough = 0.1;
+            };
+            class Neck
+            {
+                hitpointName = "HitNeck";
+                Armor=100;
+                passThrough = 0.1;
+                simulation = "";    
+            };
+            class Chest
+            {
+                hitpointName = "HitChest";
+                Armor=100;
+                passThrough = 0.1;
+                simulation = "";    
+            };
+            class Arms
+            {
+                hitpointName = "HitArms";
+                    Armor=100;
+                passThrough = 0.1;
+                simulation = "";    
+            };
+            class Diaphragm
+            {
+                hitpointName = "HitDiaphragm";
+                Armor=100;
+                passThrough = 0.1;
+                simulation = "";    
+            };
+            class Abdomen
+            {
+                hitpointName = "HitAbdomen";
+                Armor=100;
+                passThrough = 0.1;
+                simulation = "";    
+            };
+            class Pelvis
+            {
+                hitpointName = "HitPelvis";
+                Armor=100;
+                passThrough = 0.1;
+                simulation = "";        
+            };
+            class Body
+            {
+                hitpointName = "HitBody";
+                passThrough = 0.1;
+                simulation = "";    
+            };
+        };
+    };
 };
 
 RHS_VEST_MEDIUM(rhs_6b23_digi,rhs_6b23);
