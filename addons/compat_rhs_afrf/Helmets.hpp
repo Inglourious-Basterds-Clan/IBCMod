@@ -163,7 +163,7 @@ class rhs_6b26_green: rhs_6b26
     class ItemInfo : ItemInfo{};
 };
 
-RHS_HELMET_MEDIUM(rhs_6b26_digi,rhs_6b26);
+class rhs_6b26_digi: rhs_6b26 {};
 RHS_HELMET_MEDIUM(rhs_6b26_digi_bala,rhs_6b26_digi);
 RHS_HELMET_MEDIUM(rhs_6b26_digi_ess,rhs_6b26_digi);
 RHS_HELMET_MEDIUM(rhs_6b26_digi_ess_bala,rhs_6b26_digi);

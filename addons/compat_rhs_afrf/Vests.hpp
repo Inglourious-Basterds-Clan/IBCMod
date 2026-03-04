@@ -204,7 +204,7 @@ class rhs_vest_pistol_holster: rhs_vest_commander
     };
 };
 
-RHS_VEST_MEDIUM(rhs_6b23_digi,rhs_6b23);
+class rhs_6b23_digi: rhs_6b23 {};
 RHS_VEST_MEDIUM(rhs_6b23_digi_crew,rhs_6b23_crew);
 RHS_VEST_MEDIUM(rhs_6b23_digi_engineer,rhs_6b23_engineer);
 RHS_VEST_MEDIUM(rhs_6b23_digi_medic,rhs_6b23_medic);

@@ -72,7 +72,9 @@ RHS_VEST_MEDIUM(rhsusf_iotv_ocp_Rifleman,rhsusf_iotv_ocp_base);
 RHS_VEST_MEDIUM(rhsusf_iotv_ocp_SAW,rhsusf_iotv_ocp_base);
 RHS_VEST_MEDIUM(rhsusf_iotv_ocp_Squadleader,rhsusf_iotv_ocp_base);
 RHS_VEST_MEDIUM(rhsusf_iotv_ocp_Teamleader,rhsusf_iotv_ocp_base);
-RHS_VEST_MEDIUM(rhsusf_iotv_ucp_base,rhsusf_iotv_ocp_base);
+
+class rhsusf_iotv_ucp_base: rhsusf_iotv_ocp_base {};
+
 RHS_VEST_MEDIUM(rhsusf_iotv_ucp,rhsusf_iotv_ocp);
 RHS_VEST_MEDIUM(rhsusf_iotv_ucp_Grenadier,rhsusf_iotv_ucp_base);
 RHS_VEST_MEDIUM(rhsusf_iotv_ucp_Medic,rhsusf_iotv_ucp_base);
