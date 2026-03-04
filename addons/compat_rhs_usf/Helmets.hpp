@@ -191,7 +191,27 @@ RHS_HELMET_MEDIUM(rhsusf_mich_bare_norotos_alt_semi,rhsusf_mich_bare_norotos_sem
 RHS_HELMET_MEDIUM(rhsusf_lwh_helmet_marpatd,H_HelmetB);
 
 RHS_BASECAP(rhsusf_Bowman,ItemCore);
-RHS_BASECAP(rhsusf_bowman_cap,rhsusf_Bowman);
+class rhsusf_bowman_cap : rhsusf_Bowman
+{
+	class ItemInfo: ItemInfo
+	{
+		class HitpointsProtectionInfo
+		{
+			class Head
+			{
+				hitpointName="HitHead";
+				armor=0;
+				passThrough=1;
+			};
+			class Face
+			{
+				hitpointName="HitFace";
+				armor=0;
+				passThrough=1;
+			};
+		};
+	};
+};
 
 RHS_HELMET_HEAVY(RHS_jetpilot_usaf,H_HelmetB);
 RHS_HELMET_HEAVY(rhsusf_ihadss,rhsusf_opscore_01);
