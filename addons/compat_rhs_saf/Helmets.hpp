@@ -127,11 +127,6 @@ RHS_HELMET_MEDIUM(rhssaf_helmet_m97_veil_digital,rhssaf_helmet_m97_veil_Base);
 RHS_HELMET_MEDIUM(rhssaf_helmet_m97_veil_md2camo,rhssaf_helmet_m97_veil_Base);
 RHS_HELMET_MEDIUM(rhssaf_helmet_m97_veil_oakleaf,rhssaf_helmet_m97_veil_Base);
 RHS_BASECAP(rhssaf_beret_green,rhssaf_helmet_base);
-class H_PilotHelmetHeli_B: H_HelmetB{};
-class H_PilotHelmetHeli_O: H_PilotHelmetHeli_B
-{
-    class ItemInfo;
-};
 class rhssaf_beret_red: rhssaf_beret_green
 {
     picture = "\rhssaf\addons\rhssaf_inventoryicons\data\headgear\rhssaf_beret_red_ca.paa";
