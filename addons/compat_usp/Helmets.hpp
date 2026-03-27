@@ -229,8 +229,30 @@ USP_HELMET_ACE(USP_MICH_TC2000_CT_CM_PC_GU_IB_RM,USP_MICH_TC2000);
 USP_HELMET_ACE(USP_MICH_TC2000_CT_CM_PC_GU_IB,USP_MICH_TC2000);
 USP_HELMET_ACE(USP_MICH_TC2000_CT_CM_PC_LP_VL,USP_MICH_TC2000);
 USP_HELMET_ACE(USP_MICH_TC2000_CT_CM_PC_VL,USP_MICH_TC2000);
-USP_HELMET(USP_MICH_TC2000_GRN,USP_MICH_TC2000);
-USP_HELMET(USP_MICH_TC2000_TAN,USP_MICH_TC2000);
+class USP_MICH_TC2000_TAN: USP_MICH_TC2000{
+    class ItemInfo: ItemInfo { 
+        mass = 30; 
+        class HitpointsProtectionInfo { 
+            class Head { 
+                hitpointName = "HitHead"; 
+                armor = 6; 
+                passThrough = 0.5; 
+            }; 
+        }; 
+    }; 
+};
+class USP_MICH_TC2000_GRN: USP_MICH_TC2000{
+    class ItemInfo: ItemInfo { 
+        mass = 30; 
+        class HitpointsProtectionInfo { 
+            class Head { 
+                hitpointName = "HitHead"; 
+                armor = 6; 
+                passThrough = 0.5; 
+            }; 
+        }; 
+    }; 
+};
 USP_HELMET(USP_MICH_TC2000_CM,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_GB,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_GC,USP_MICH_TC2000);
@@ -252,10 +274,54 @@ USP_HELMET(USP_MICH_TC2000_SF,USP_MICH_TC2000);
 USP_HELMET(USP_MICH_TC2000_VL,USP_MICH_TC2000);
 USP_HELMET_ACE(USP_HEAD_RBH_ATTACK_TAN,H_HelmetB);
 USP_HELMET(USP_CRYE_AIRFRAME,H_HelmetB);
-USP_HELMET(USP_CRYE_AIRFRAME_BLK,USP_CRYE_AIRFRAME);
-USP_HELMET(USP_CRYE_AIRFRAME_MCD,USP_CRYE_AIRFRAME);
-USP_HELMET(USP_CRYE_AIRFRAME_MC,USP_CRYE_AIRFRAME);
-USP_HELMET(USP_CRYE_AIRFRAME_OD,USP_CRYE_AIRFRAME);
+class USP_CRYE_AIRFRAME_BLK: USP_CRYE_AIRFRAME{
+    class ItemInfo: ItemInfo { 
+        mass = 30; 
+        class HitpointsProtectionInfo { 
+            class Head { 
+                hitpointName = "HitHead"; 
+                armor = 6; 
+                passThrough = 0.5; 
+            }; 
+        }; 
+    }; 
+};
+class USP_CRYE_AIRFRAME_MC: USP_CRYE_AIRFRAME{
+    class ItemInfo: ItemInfo { 
+        mass = 30; 
+        class HitpointsProtectionInfo { 
+            class Head { 
+                hitpointName = "HitHead"; 
+                armor = 6; 
+                passThrough = 0.5; 
+            }; 
+        }; 
+    }; 
+};
+class USP_CRYE_AIRFRAME_MCD: USP_CRYE_AIRFRAME{
+    class ItemInfo: ItemInfo { 
+        mass = 30; 
+        class HitpointsProtectionInfo { 
+            class Head { 
+                hitpointName = "HitHead"; 
+                armor = 6; 
+                passThrough = 0.5; 
+            }; 
+        }; 
+    }; 
+};
+class USP_CRYE_AIRFRAME_OD: USP_CRYE_AIRFRAME{
+    class ItemInfo: ItemInfo { 
+        mass = 30; 
+        class HitpointsProtectionInfo { 
+            class Head { 
+                hitpointName = "HitHead"; 
+                armor = 6; 
+                passThrough = 0.5; 
+            }; 
+        }; 
+    }; 
+};
 USP_HELMET(USP_CRYE_AIRFRAME_CM,H_HelmetB);
 USP_HELMET(USP_CRYE_AIRFRAME_CMW,H_HelmetB);
 USP_HELMET(USP_CRYE_AIRFRAME_CMWGU,H_HelmetB);
