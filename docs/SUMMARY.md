@@ -8,6 +8,7 @@
 * [Breaching](addons/breaching/README.md)
 * [Compat CSA38](addons/compat_csa38/README.md)
 * [Compat FOW](addons/compat_fow/README.md)
+* [Compat RHS](addons/compat_rhs/README.md)
 * [Compat USP](addons/compat_usp/README.md)
 * [Forestry](addons/forestry/README.md)
 * [Insignia](addons/insignia/README.md)

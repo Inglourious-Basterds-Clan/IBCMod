@@ -12,4 +12,3 @@ Dodaje kompatybilność dla USP AiO.
 ## Autorzy
 
 - [kolmipilot](https://github.com/kolmipilot)
-
