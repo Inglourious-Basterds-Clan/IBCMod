@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-* [IBCMod](index.md)
+* [IBCMod](README.md)
 
 ## Addons
 
