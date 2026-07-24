@@ -5,6 +5,7 @@
 ## Addons
 
 * [Admin](addons/admin/README.md)
+* [Arsenal](addons/arsenal/README.md)
 * [Breaching](addons/breaching/README.md)
 * [Compat CSA38](addons/compat_csa38/README.md)
 * [Compat FOW](addons/compat_fow/README.md)
