@@ -1,6 +1,6 @@
 # Arsenal
 
-Dodaje nową zakładke do arsenalu ace zawierającą wszytskie przedmioty z modyfikacji ACRE.
+Dodaje nową zakładke do arsenalu ace zawierającą wszystkie przedmioty z modyfikacji ACRE.
 
 ### Authors
 
