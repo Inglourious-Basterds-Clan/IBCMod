@@ -19,3 +19,4 @@
 * [Screenshot](addons/screenshot/README.md)
 * [Spectator](addons/spectator/README.md)
 * [Respawn](addons/respawn/README.md)
+* [Warning Suppressor](addons/warning_suppressor/README.md)
