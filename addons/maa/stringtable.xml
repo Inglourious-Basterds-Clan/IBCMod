@@ -2,7 +2,7 @@
 <Project name="IBC">
     <Package name="Maa">
         <Container name="Desc">
-            <Key ID="STR_IBC_MAA_Desc_ADM401">
+            <Key ID="STR_IBC_Maa_Desc_ADM401">
                 <English>Type: MAAWS ADM 401 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS ADM 401&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS ADM 401&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -18,7 +18,7 @@
                 <Chinesesimp>类型：MAAWS ADM 401 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS ADM 401 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_ASM509">
+            <Key ID="STR_IBC_Maa_Desc_ASM509">
                 <English>Type: MAAWS ASM 509 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS ASM 509&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS ASM 509&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -34,7 +34,7 @@
                 <Chinesesimp>类型：MAAWS ASM 509 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS ASM 509 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_GMMHE">
+            <Key ID="STR_IBC_Maa_Desc_GMMHE">
                 <English>Type: MAAWS GMM HE Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS GMM HE&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS GMM HE&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -50,7 +50,7 @@
                 <Chinesesimp>类型：MAAWS GMM HE 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS GMM HE Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_GMMHEAT">
+            <Key ID="STR_IBC_Maa_Desc_GMMHEAT">
                 <English>Type: MAAWS GMM HEAT Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS GMM HEAT&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS GMM HEAT&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -66,7 +66,7 @@
                 <Chinesesimp>类型：MAAWS GMM HEAT 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS GMM HEAT Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_GMMMT">
+            <Key ID="STR_IBC_Maa_Desc_GMMMT">
                 <English>Type: MAAWS GMM MT Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS GMM MT&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS GMM MT&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -82,7 +82,7 @@
                 <Chinesesimp>类型：MAAWS GMM MT 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS GMM MT Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_HE441AB100">
+            <Key ID="STR_IBC_Maa_Desc_HE441AB100">
                 <English>Type: MAAWS HE 44 Rocket, Airburst 100 m&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS HE 44, Airburst 100 m&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS HE 44, Airburst 100 m&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -98,7 +98,7 @@
                 <Chinesesimp>类型：MAAWS HE 44 火箭, Airburst 100 m&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS HE 44 Roketi, Airburst 100 m&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_HE441AB250">
+            <Key ID="STR_IBC_Maa_Desc_HE441AB250">
                 <English>Type: MAAWS HE 44 Rocket, Airburst 250 m&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS HE 44, Airburst 250 m&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS HE 44, Airburst 250 m&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -114,7 +114,7 @@
                 <Chinesesimp>类型：MAAWS HE 44 火箭, Airburst 250 m&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS HE 44 Roketi, Airburst 250 m&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_HE441AB500">
+            <Key ID="STR_IBC_Maa_Desc_HE441AB500">
                 <English>Type: MAAWS HE 44 Rocket, Airburst 500 m&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS HE 44, Airburst 500 m&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS HE 44, Airburst 500 m&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -130,7 +130,7 @@
                 <Chinesesimp>类型：MAAWS HE 44 火箭, Airburst 500 m&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS HE 44 Roketi, Airburst 500 m&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_HEDP502">
+            <Key ID="STR_IBC_Maa_Desc_HEDP502">
                 <English>Type: MAAWS HEDP 502 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS HEDP 502&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS HEDP 502&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -146,7 +146,7 @@
                 <Chinesesimp>类型：MAAWS HEDP 502 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS HEDP 502 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_ILLUM545">
+            <Key ID="STR_IBC_Maa_Desc_ILLUM545">
                 <English>Type: MAAWS ILLUM 545 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS ILLUM 545&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS ILLUM 545&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -162,7 +162,7 @@
                 <Chinesesimp>类型：MAAWS ILLUM 545 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS ILLUM 545 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_MT756">
+            <Key ID="STR_IBC_Maa_Desc_MT756">
                 <English>Type: MAAWS MT 756 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS MT 756&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS MT 756&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -178,7 +178,7 @@
                 <Chinesesimp>类型：MAAWS MT 756 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
                 <Turkish>Tür: MAAWS MT 756 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Desc_SMOKE469">
+            <Key ID="STR_IBC_Maa_Desc_SMOKE469">
                 <English>Type: MAAWS SMOKE 469 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS SMOKE 469&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
                 <French>Type : roquette MAAWS SMOKE 469&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
@@ -196,7 +196,7 @@
             </Key>
         </Container>
         <Container name="Name">
-            <Key ID="STR_IBC_MAA_Name_ADM401">
+            <Key ID="STR_IBC_Maa_Name_ADM401">
                 <English>MAAWS ADM 401 Round</English>
                 <Czech>Střela MAAWS ADM 401</Czech>
                 <French>Munition MAAWS ADM 401</French>
@@ -212,7 +212,7 @@
                 <Chinesesimp>MAAWS ADM 401 炮弹</Chinesesimp>
                 <Turkish>MAAWS ADM 401 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_ASM509">
+            <Key ID="STR_IBC_Maa_Name_ASM509">
                 <English>MAAWS ASM 509 Round</English>
                 <Czech>Střela MAAWS ASM 509</Czech>
                 <French>Munition MAAWS ASM 509</French>
@@ -228,7 +228,7 @@
                 <Chinesesimp>MAAWS ASM 509 炮弹</Chinesesimp>
                 <Turkish>MAAWS ASM 509 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_GMMHE">
+            <Key ID="STR_IBC_Maa_Name_GMMHE">
                 <English>MAAWS GMM HE Round</English>
                 <Czech>Střela MAAWS GMM HE</Czech>
                 <French>Munition MAAWS GMM HE</French>
@@ -244,7 +244,7 @@
                 <Chinesesimp>MAAWS GMM HE 炮弹</Chinesesimp>
                 <Turkish>MAAWS GMM HE Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_GMMHEAT">
+            <Key ID="STR_IBC_Maa_Name_GMMHEAT">
                 <English>MAAWS GMM HEAT Round</English>
                 <Czech>Střela MAAWS GMM HEAT</Czech>
                 <French>Munition MAAWS GMM HEAT</French>
@@ -260,7 +260,7 @@
                 <Chinesesimp>MAAWS GMM HEAT 炮弹</Chinesesimp>
                 <Turkish>MAAWS GMM HEAT Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_GMMMT">
+            <Key ID="STR_IBC_Maa_Name_GMMMT">
                 <English>MAAWS GMM MT Round</English>
                 <Czech>Střela MAAWS GMM MT</Czech>
                 <French>Munition MAAWS GMM MT</French>
@@ -276,7 +276,7 @@
                 <Chinesesimp>MAAWS GMM MT 炮弹</Chinesesimp>
                 <Turkish>MAAWS GMM MT Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_HE441AB100">
+            <Key ID="STR_IBC_Maa_Name_HE441AB100">
                 <English>MAAWS HE 44 AB100 Round</English>
                 <Czech>Střela MAAWS HE 44 AB100</Czech>
                 <French>Munition MAAWS HE 44 AB100</French>
@@ -292,7 +292,7 @@
                 <Chinesesimp>MAAWS HE 44 AB100 炮弹</Chinesesimp>
                 <Turkish>MAAWS HE 44 AB100 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_HE441AB250">
+            <Key ID="STR_IBC_Maa_Name_HE441AB250">
                 <English>MAAWS HE 44 AB250 Round</English>
                 <Czech>Střela MAAWS HE 44 AB250</Czech>
                 <French>Munition MAAWS HE 44 AB250</French>
@@ -308,7 +308,7 @@
                 <Chinesesimp>MAAWS HE 44 AB250 炮弹</Chinesesimp>
                 <Turkish>MAAWS HE 44 AB250 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_HE441AB500">
+            <Key ID="STR_IBC_Maa_Name_HE441AB500">
                 <English>MAAWS HE 44 AB500 Round</English>
                 <Czech>Střela MAAWS HE 44 AB500</Czech>
                 <French>Munition MAAWS HE 44 AB500</French>
@@ -324,7 +324,7 @@
                 <Chinesesimp>MAAWS HE 44 AB500 炮弹</Chinesesimp>
                 <Turkish>MAAWS HE 44 AB500 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_HEDP502">
+            <Key ID="STR_IBC_Maa_Name_HEDP502">
                 <English>MAAWS HEDP 502 Round</English>
                 <Czech>Střela MAAWS HEDP 502</Czech>
                 <French>Munition MAAWS HEDP 502</French>
@@ -340,7 +340,7 @@
                 <Chinesesimp>MAAWS HEDP 502 炮弹</Chinesesimp>
                 <Turkish>MAAWS HEDP 502 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_ILLUM545">
+            <Key ID="STR_IBC_Maa_Name_ILLUM545">
                 <English>MAAWS ILLUM 545 Round</English>
                 <Czech>Střela MAAWS ILLUM 545</Czech>
                 <French>Munition MAAWS ILLUM 545</French>
@@ -356,7 +356,7 @@
                 <Chinesesimp>MAAWS ILLUM 545 炮弹</Chinesesimp>
                 <Turkish>MAAWS ILLUM 545 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_MT756">
+            <Key ID="STR_IBC_Maa_Name_MT756">
                 <English>MAAWS MT 756 Round</English>
                 <Czech>Střela MAAWS MT 756</Czech>
                 <French>Munition MAAWS MT 756</French>
@@ -372,7 +372,7 @@
                 <Chinesesimp>MAAWS MT 756 炮弹</Chinesesimp>
                 <Turkish>MAAWS MT 756 Mermisi</Turkish>
             </Key>
-            <Key ID="STR_IBC_MAA_Name_SMOKE469">
+            <Key ID="STR_IBC_Maa_Name_SMOKE469">
                 <English>MAAWS SMOKE 469 Round</English>
                 <Czech>Střela MAAWS SMOKE 469</Czech>
                 <French>Munition MAAWS SMOKE 469</French>
