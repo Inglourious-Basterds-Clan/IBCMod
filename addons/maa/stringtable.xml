@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="IBC">
+    <Package name="Maa">
+        <Container name="Desc">
+            <Key ID="STR_IBC_MAA_Desc_ADM401">
+                <English>Type: MAAWS ADM 401 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS ADM 401&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS ADM 401&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS ADM 401&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS ADM 401&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS ADM 401&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS ADM 401&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS ADM 401&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS ADM 401 Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS ADM 401 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS ADM 401 Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS ADM 401 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS ADM 401 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS ADM 401 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_ASM509">
+                <English>Type: MAAWS ASM 509 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS ASM 509&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS ASM 509&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS ASM 509&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS ASM 509&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS ASM 509&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS ASM 509&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS ASM 509&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS ASM 509 Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS ASM 509 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS ASM 509 Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS ASM 509 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS ASM 509 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS ASM 509 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_GMMHE">
+                <English>Type: MAAWS GMM HE Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS GMM HE&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS GMM HE&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS GMM HE&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS GMM HE&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS GMM HE&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS GMM HE&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS GMM HE&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS GMM HE Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS GMM HE 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS GMM HE Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS GMM HE 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS GMM HE 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS GMM HE Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_GMMHEAT">
+                <English>Type: MAAWS GMM HEAT Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS GMM HEAT&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS GMM HEAT&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS GMM HEAT&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS GMM HEAT&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS GMM HEAT&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS GMM HEAT&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS GMM HEAT&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS GMM HEAT Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS GMM HEAT 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS GMM HEAT Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS GMM HEAT 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS GMM HEAT 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS GMM HEAT Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_GMMMT">
+                <English>Type: MAAWS GMM MT Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS GMM MT&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS GMM MT&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS GMM MT&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS GMM MT&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS GMM MT&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS GMM MT&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS GMM MT&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS GMM MT Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS GMM MT 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS GMM MT Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS GMM MT 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS GMM MT 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS GMM MT Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_HE441AB100">
+                <English>Type: MAAWS HE 44 Rocket, Airburst 100 m&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS HE 44, Airburst 100 m&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS HE 44, Airburst 100 m&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS HE 44, Airburst 100 m&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS HE 44, Airburst 100 m&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS HE 44, Airburst 100 m&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS HE 44, Airburst 100 m&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS HE 44, Airburst 100 m&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS HE 44 Rakete, Airburst 100 m&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS HE 44 로켓, Airburst 100 m&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS HE 44 Rocket, Airburst 100 m&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS HE 44 火箭, Airburst 100 m&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS HE 44 火箭, Airburst 100 m&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS HE 44 Roketi, Airburst 100 m&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_HE441AB250">
+                <English>Type: MAAWS HE 44 Rocket, Airburst 250 m&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS HE 44, Airburst 250 m&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS HE 44, Airburst 250 m&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS HE 44, Airburst 250 m&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS HE 44, Airburst 250 m&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS HE 44, Airburst 250 m&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS HE 44, Airburst 250 m&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS HE 44, Airburst 250 m&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS HE 44 Rakete, Airburst 250 m&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS HE 44 로켓, Airburst 250 m&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS HE 44 Rocket, Airburst 250 m&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS HE 44 火箭, Airburst 250 m&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS HE 44 火箭, Airburst 250 m&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS HE 44 Roketi, Airburst 250 m&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_HE441AB500">
+                <English>Type: MAAWS HE 44 Rocket, Airburst 500 m&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS HE 44, Airburst 500 m&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS HE 44, Airburst 500 m&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS HE 44, Airburst 500 m&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS HE 44, Airburst 500 m&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS HE 44, Airburst 500 m&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS HE 44, Airburst 500 m&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS HE 44, Airburst 500 m&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS HE 44 Rakete, Airburst 500 m&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS HE 44 로켓, Airburst 500 m&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS HE 44 Rocket, Airburst 500 m&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS HE 44 火箭, Airburst 500 m&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS HE 44 火箭, Airburst 500 m&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS HE 44 Roketi, Airburst 500 m&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_HEDP502">
+                <English>Type: MAAWS HEDP 502 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS HEDP 502&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS HEDP 502&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS HEDP 502&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS HEDP 502&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS HEDP 502&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS HEDP 502&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS HEDP 502&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS HEDP 502 Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS HEDP 502 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS HEDP 502 Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS HEDP 502 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS HEDP 502 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS HEDP 502 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_ILLUM545">
+                <English>Type: MAAWS ILLUM 545 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS ILLUM 545&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS ILLUM 545&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS ILLUM 545&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS ILLUM 545&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS ILLUM 545&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS ILLUM 545&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS ILLUM 545&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS ILLUM 545 Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS ILLUM 545 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS ILLUM 545 Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS ILLUM 545 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS ILLUM 545 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS ILLUM 545 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_MT756">
+                <English>Type: MAAWS MT 756 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS MT 756&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS MT 756&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS MT 756&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS MT 756&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS MT 756&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS MT 756&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS MT 756&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS MT 756 Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS MT 756 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS MT 756 Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS MT 756 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS MT 756 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS MT 756 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Desc_SMOKE469">
+                <English>Type: MAAWS SMOKE 469 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
+                <Czech>Typ: Raketa MAAWS SMOKE 469&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
+                <French>Type : roquette MAAWS SMOKE 469&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
+                <Spanish>Tipo: cohete MAAWS SMOKE 469&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
+                <Italian>Tipo: razzo MAAWS SMOKE 469&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
+                <Polish>Typ: rakieta MAAWS SMOKE 469&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
+                <Portuguese>Tipo: Foguete MAAWS SMOKE 469&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
+                <Russian>Тип: Ракета MAAWS SMOKE 469&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
+                <German>Typ: MAAWS SMOKE 469 Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
+                <Korean>유형: MAAWS SMOKE 469 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
+                <Japanese>種類：MAAWS SMOKE 469 Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
+                <Chinese>種類：MAAWS SMOKE 469 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
+                <Chinesesimp>类型：MAAWS SMOKE 469 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
+                <Turkish>Tür: MAAWS SMOKE 469 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
+            </Key>
+        </Container>
+        <Container name="Name">
+            <Key ID="STR_IBC_MAA_Name_ADM401">
+                <English>MAAWS ADM 401 Round</English>
+                <Czech>Střela MAAWS ADM 401</Czech>
+                <French>Munition MAAWS ADM 401</French>
+                <Spanish>Proyectil MAAWS ADM 401</Spanish>
+                <Italian>Proiettile MAAWS ADM 401</Italian>
+                <Polish>Pocisk MAAWS ADM 401</Polish>
+                <Portuguese>Carga MAAWS ADM 401</Portuguese>
+                <Russian>Снаряд MAAWS ADM 401</Russian>
+                <German>MAAWS ADM 401-Munition</German>
+                <Korean>MAAWS ADM 401 라운드</Korean>
+                <Japanese>MAAWS ADM 401 砲弾</Japanese>
+                <Chinese>MAAWS ADM 401 子彈</Chinese>
+                <Chinesesimp>MAAWS ADM 401 炮弹</Chinesesimp>
+                <Turkish>MAAWS ADM 401 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_ASM509">
+                <English>MAAWS ASM 509 Round</English>
+                <Czech>Střela MAAWS ASM 509</Czech>
+                <French>Munition MAAWS ASM 509</French>
+                <Spanish>Proyectil MAAWS ASM 509</Spanish>
+                <Italian>Proiettile MAAWS ASM 509</Italian>
+                <Polish>Pocisk MAAWS ASM 509</Polish>
+                <Portuguese>Carga MAAWS ASM 509</Portuguese>
+                <Russian>Снаряд MAAWS ASM 509</Russian>
+                <German>MAAWS ASM 509-Munition</German>
+                <Korean>MAAWS ASM 509 라운드</Korean>
+                <Japanese>MAAWS ASM 509 砲弾</Japanese>
+                <Chinese>MAAWS ASM 509 子彈</Chinese>
+                <Chinesesimp>MAAWS ASM 509 炮弹</Chinesesimp>
+                <Turkish>MAAWS ASM 509 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_GMMHE">
+                <English>MAAWS GMM HE Round</English>
+                <Czech>Střela MAAWS GMM HE</Czech>
+                <French>Munition MAAWS GMM HE</French>
+                <Spanish>Proyectil MAAWS GMM HE</Spanish>
+                <Italian>Proiettile MAAWS GMM HE</Italian>
+                <Polish>Pocisk MAAWS GMM HE</Polish>
+                <Portuguese>Carga MAAWS GMM HE</Portuguese>
+                <Russian>Снаряд MAAWS GMM HE</Russian>
+                <German>MAAWS GMM HE-Munition</German>
+                <Korean>MAAWS GMM HE 라운드</Korean>
+                <Japanese>MAAWS GMM HE 砲弾</Japanese>
+                <Chinese>MAAWS GMM HE 子彈</Chinese>
+                <Chinesesimp>MAAWS GMM HE 炮弹</Chinesesimp>
+                <Turkish>MAAWS GMM HE Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_GMMHEAT">
+                <English>MAAWS GMM HEAT Round</English>
+                <Czech>Střela MAAWS GMM HEAT</Czech>
+                <French>Munition MAAWS GMM HEAT</French>
+                <Spanish>Proyectil MAAWS GMM HEAT</Spanish>
+                <Italian>Proiettile MAAWS GMM HEAT</Italian>
+                <Polish>Pocisk MAAWS GMM HEAT</Polish>
+                <Portuguese>Carga MAAWS GMM HEAT</Portuguese>
+                <Russian>Снаряд MAAWS GMM HEAT</Russian>
+                <German>MAAWS GMM HEAT-Munition</German>
+                <Korean>MAAWS GMM HEAT 라운드</Korean>
+                <Japanese>MAAWS GMM HEAT 砲弾</Japanese>
+                <Chinese>MAAWS GMM HEAT 子彈</Chinese>
+                <Chinesesimp>MAAWS GMM HEAT 炮弹</Chinesesimp>
+                <Turkish>MAAWS GMM HEAT Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_GMMMT">
+                <English>MAAWS GMM MT Round</English>
+                <Czech>Střela MAAWS GMM MT</Czech>
+                <French>Munition MAAWS GMM MT</French>
+                <Spanish>Proyectil MAAWS GMM MT</Spanish>
+                <Italian>Proiettile MAAWS GMM MT</Italian>
+                <Polish>Pocisk MAAWS GMM MT</Polish>
+                <Portuguese>Carga MAAWS GMM MT</Portuguese>
+                <Russian>Снаряд MAAWS GMM MT</Russian>
+                <German>MAAWS GMM MT-Munition</German>
+                <Korean>MAAWS GMM MT 라운드</Korean>
+                <Japanese>MAAWS GMM MT 砲弾</Japanese>
+                <Chinese>MAAWS GMM MT 子彈</Chinese>
+                <Chinesesimp>MAAWS GMM MT 炮弹</Chinesesimp>
+                <Turkish>MAAWS GMM MT Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_HE441AB100">
+                <English>MAAWS HE 44 AB100 Round</English>
+                <Czech>Střela MAAWS HE 44 AB100</Czech>
+                <French>Munition MAAWS HE 44 AB100</French>
+                <Spanish>Proyectil MAAWS HE 44 AB100</Spanish>
+                <Italian>Proiettile MAAWS HE 44 AB100</Italian>
+                <Polish>Pocisk MAAWS HE 44 AB100</Polish>
+                <Portuguese>Carga MAAWS HE 44 AB100</Portuguese>
+                <Russian>Снаряд MAAWS HE 44 AB100</Russian>
+                <German>MAAWS HE 44 AB100-Munition</German>
+                <Korean>MAAWS HE 44 AB100 라운드</Korean>
+                <Japanese>MAAWS HE 44 AB100 砲弾</Japanese>
+                <Chinese>MAAWS HE 44 AB100 子彈</Chinese>
+                <Chinesesimp>MAAWS HE 44 AB100 炮弹</Chinesesimp>
+                <Turkish>MAAWS HE 44 AB100 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_HE441AB250">
+                <English>MAAWS HE 44 AB250 Round</English>
+                <Czech>Střela MAAWS HE 44 AB250</Czech>
+                <French>Munition MAAWS HE 44 AB250</French>
+                <Spanish>Proyectil MAAWS HE 44 AB250</Spanish>
+                <Italian>Proiettile MAAWS HE 44 AB250</Italian>
+                <Polish>Pocisk MAAWS HE 44 AB250</Polish>
+                <Portuguese>Carga MAAWS HE 44 AB250</Portuguese>
+                <Russian>Снаряд MAAWS HE 44 AB250</Russian>
+                <German>MAAWS HE 44 AB250-Munition</German>
+                <Korean>MAAWS HE 44 AB250 라운드</Korean>
+                <Japanese>MAAWS HE 44 AB250 砲弾</Japanese>
+                <Chinese>MAAWS HE 44 AB250 子彈</Chinese>
+                <Chinesesimp>MAAWS HE 44 AB250 炮弹</Chinesesimp>
+                <Turkish>MAAWS HE 44 AB250 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_HE441AB500">
+                <English>MAAWS HE 44 AB500 Round</English>
+                <Czech>Střela MAAWS HE 44 AB500</Czech>
+                <French>Munition MAAWS HE 44 AB500</French>
+                <Spanish>Proyectil MAAWS HE 44 AB500</Spanish>
+                <Italian>Proiettile MAAWS HE 44 AB500</Italian>
+                <Polish>Pocisk MAAWS HE 44 AB500</Polish>
+                <Portuguese>Carga MAAWS HE 44 AB500</Portuguese>
+                <Russian>Снаряд MAAWS HE 44 AB500</Russian>
+                <German>MAAWS HE 44 AB500-Munition</German>
+                <Korean>MAAWS HE 44 AB500 라운드</Korean>
+                <Japanese>MAAWS HE 44 AB500 砲弾</Japanese>
+                <Chinese>MAAWS HE 44 AB500 子彈</Chinese>
+                <Chinesesimp>MAAWS HE 44 AB500 炮弹</Chinesesimp>
+                <Turkish>MAAWS HE 44 AB500 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_HEDP502">
+                <English>MAAWS HEDP 502 Round</English>
+                <Czech>Střela MAAWS HEDP 502</Czech>
+                <French>Munition MAAWS HEDP 502</French>
+                <Spanish>Proyectil MAAWS HEDP 502</Spanish>
+                <Italian>Proiettile MAAWS HEDP 502</Italian>
+                <Polish>Pocisk MAAWS HEDP 502</Polish>
+                <Portuguese>Carga MAAWS HEDP 502</Portuguese>
+                <Russian>Снаряд MAAWS HEDP 502</Russian>
+                <German>MAAWS HEDP 502-Munition</German>
+                <Korean>MAAWS HEDP 502 라운드</Korean>
+                <Japanese>MAAWS HEDP 502 砲弾</Japanese>
+                <Chinese>MAAWS HEDP 502 子彈</Chinese>
+                <Chinesesimp>MAAWS HEDP 502 炮弹</Chinesesimp>
+                <Turkish>MAAWS HEDP 502 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_ILLUM545">
+                <English>MAAWS ILLUM 545 Round</English>
+                <Czech>Střela MAAWS ILLUM 545</Czech>
+                <French>Munition MAAWS ILLUM 545</French>
+                <Spanish>Proyectil MAAWS ILLUM 545</Spanish>
+                <Italian>Proiettile MAAWS ILLUM 545</Italian>
+                <Polish>Pocisk MAAWS ILLUM 545</Polish>
+                <Portuguese>Carga MAAWS ILLUM 545</Portuguese>
+                <Russian>Снаряд MAAWS ILLUM 545</Russian>
+                <German>MAAWS ILLUM 545-Munition</German>
+                <Korean>MAAWS ILLUM 545 라운드</Korean>
+                <Japanese>MAAWS ILLUM 545 砲弾</Japanese>
+                <Chinese>MAAWS ILLUM 545 子彈</Chinese>
+                <Chinesesimp>MAAWS ILLUM 545 炮弹</Chinesesimp>
+                <Turkish>MAAWS ILLUM 545 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_MT756">
+                <English>MAAWS MT 756 Round</English>
+                <Czech>Střela MAAWS MT 756</Czech>
+                <French>Munition MAAWS MT 756</French>
+                <Spanish>Proyectil MAAWS MT 756</Spanish>
+                <Italian>Proiettile MAAWS MT 756</Italian>
+                <Polish>Pocisk MAAWS MT 756</Polish>
+                <Portuguese>Carga MAAWS MT 756</Portuguese>
+                <Russian>Снаряд MAAWS MT 756</Russian>
+                <German>MAAWS MT 756-Munition</German>
+                <Korean>MAAWS MT 756 라운드</Korean>
+                <Japanese>MAAWS MT 756 砲弾</Japanese>
+                <Chinese>MAAWS MT 756 子彈</Chinese>
+                <Chinesesimp>MAAWS MT 756 炮弹</Chinesesimp>
+                <Turkish>MAAWS MT 756 Mermisi</Turkish>
+            </Key>
+            <Key ID="STR_IBC_MAA_Name_SMOKE469">
+                <English>MAAWS SMOKE 469 Round</English>
+                <Czech>Střela MAAWS SMOKE 469</Czech>
+                <French>Munition MAAWS SMOKE 469</French>
+                <Spanish>Proyectil MAAWS SMOKE 469</Spanish>
+                <Italian>Proiettile MAAWS SMOKE 469</Italian>
+                <Polish>Pocisk MAAWS SMOKE 469</Polish>
+                <Portuguese>Carga MAAWS SMOKE 469</Portuguese>
+                <Russian>Снаряд MAAWS SMOKE 469</Russian>
+                <German>MAAWS SMOKE 469-Munition</German>
+                <Korean>MAAWS SMOKE 469 라운드</Korean>
+                <Japanese>MAAWS SMOKE 469 砲弾</Japanese>
+                <Chinese>MAAWS SMOKE 469 子彈</Chinese>
+                <Chinesesimp>MAAWS SMOKE 469 炮弹</Chinesesimp>
+                <Turkish>MAAWS SMOKE 469 Mermisi</Turkish>
+            </Key>
+        </Container>
+    </Package>
+</Project>
