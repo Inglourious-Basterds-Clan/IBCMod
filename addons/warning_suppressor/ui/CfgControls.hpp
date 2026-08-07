@@ -2,7 +2,7 @@ class RscStructuredText;
 class RscButtonMenuOK;
 class DefaultFont
 {
-	font="RobotoCondensed";
+    font="RobotoCondensed";
 };
 class RscBackgroundGUI;
 class RscBackgroundGUITop;
