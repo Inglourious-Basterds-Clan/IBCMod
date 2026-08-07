@@ -9,10 +9,10 @@ class CfgPatches {
         requiredAddons[] = {
             "ibc_common",
             "a3_data_f",
-			"a3_functions_f",
-			"a3_ui_f",
-			"a3_uifonts_f",
-			"a3_3den"
+"a3_functions_f",
+"a3_ui_f",
+"a3_uifonts_f",
+"a3_3den"
         };
         author = "ArmaForces";
         VERSION_CONFIG;
