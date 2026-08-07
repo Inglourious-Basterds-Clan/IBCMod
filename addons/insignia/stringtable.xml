@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="IBC">
     <Package name="Insignia">
+        <Key ID="STR_IBC_Insignia_CagAgain">
+            <English>Make Cag Great Again</English>
+            <Polish>Make Cag Great Again</Polish>
+        </Key>
         <Key ID="STR_IBC_Insignia_Cat">
             <English>I Am Lost</English>
             <Polish>I Am Lost</Polish>
