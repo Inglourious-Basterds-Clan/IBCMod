@@ -1,4 +1,5 @@
 # Maws Additional Ammo
 
-Addon adds new ammo types for maaws.
-Orginal mod: https://steamcommunity.com/workshop/filedetails/?id=2589302544
+Adds new ammo types for MAAWS.
+
+Original mod: https://steamcommunity.com/workshop/filedetails/?id=2589302544

@@ -9,7 +9,7 @@ class CfgPatches {
         requiredAddons[] = {
             "ibc_main"
         };
-        author = "kolmipilot";
+        author = "Neonex";
         VERSION_CONFIG;
     };
 };
