@@ -12,6 +12,7 @@ class CfgPatches {
             "ace_arsenal",
             "acre_main"
         };
+        skipWhenMissingDependencies = 1;
         author = "kolmipilot";
         VERSION_CONFIG;
     };
