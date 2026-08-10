@@ -1,3 +1,5 @@
 # Backpack On Chest Redux
 
-implemantation of that mod: https://github.com/mjc4wilton/BackpackOnChestRedux
+Adds backpack on chest functionality
+
+[Original](https://github.com/mjc4wilton/BackpackOnChestRedux)
