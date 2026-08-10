@@ -1,6 +1,8 @@
-﻿# CONTRIBUTOR LIST
-
-# CORE TEAM
-
+﻿# CORE TEAM
+MiszczuZPolski
+danders0n
+kolmipilot
 
 # CONTRIBUTORS
+TheAdaamek
+Maaajestyk
