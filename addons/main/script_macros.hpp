@@ -18,6 +18,8 @@
 
 #define IS_MOD_LOADED(modclass)     (isClass (configFile >> "CfgPatches" >> #modclass))
 
+#define GETMVAR(var1,var2) (missionNamespace GETVAR_SYS(var1,var2))
+
 // Extension Macros
 #define EXT "ibc_mods"
 
