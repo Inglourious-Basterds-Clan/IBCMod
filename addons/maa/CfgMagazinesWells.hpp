@@ -1,9 +1,6 @@
-class CfgMagazineWells
-{
-    class CBA_Carl_Gustaf
-    {
-        MAA_Ammo[]=
-        {
+class CfgMagazineWells {
+    class CBA_Carl_Gustaf {
+        MAA_Ammo[]= {
             "MAA_MAAWS_HEDP502",
             "MAA_MAAWS_MT756",
             "MAA_MAAWS_ASM509",
