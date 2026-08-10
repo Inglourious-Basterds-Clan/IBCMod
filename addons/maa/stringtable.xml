@@ -2,22 +2,6 @@
 <Project name="IBC">
     <Package name="Maa">
         <Container name="Desc">
-            <Key ID="STR_IBC_Maa_Desc_ADM401">
-                <English>Type: MAAWS ADM 401 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
-                <Czech>Typ: Raketa MAAWS ADM 401&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
-                <French>Type : roquette MAAWS ADM 401&lt;br /&gt;Munitions : 1&lt;br /&gt;Application : MAAWS</French>
-                <Spanish>Tipo: cohete MAAWS ADM 401&lt;br /&gt;Proyectiles: 1&lt;br /&gt;Se usa en: MAAWS</Spanish>
-                <Italian>Tipo: razzo MAAWS ADM 401&lt;br /&gt;Colpi: 1&lt;br /&gt;Usato in: MAAWS</Italian>
-                <Polish>Typ: rakieta MAAWS ADM 401&lt;br /&gt;Pociski: 1&lt;br /&gt;Używana w: MAAWS</Polish>
-                <Portuguese>Tipo: Foguete MAAWS ADM 401&lt;br /&gt;Cargas: 1&lt;br /&gt;Usado em: MAAWS</Portuguese>
-                <Russian>Тип: Ракета MAAWS ADM 401&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: MAAWS</Russian>
-                <German>Typ: MAAWS ADM 401 Rakete&lt;br/&gt;Munition: 1&lt;br/&gt;Genutzt in: MAAWS</German>
-                <Korean>유형: MAAWS ADM 401 로켓&lt;br /&gt;개수: 1&lt;br /&gt;사용됨: MAAWS</Korean>
-                <Japanese>種類：MAAWS ADM 401 Rocket&lt;br /&gt;弾数：1&lt;br /&gt;使用武器：MAAWS</Japanese>
-                <Chinese>種類：MAAWS ADM 401 火箭&lt;br /&gt;個數：1&lt;br /&gt;用於：MAAWS</Chinese>
-                <Chinesesimp>类型：MAAWS ADM 401 火箭&lt;br /&gt;容弹量：1&lt;br /&gt;用于：MAAWS</Chinesesimp>
-                <Turkish>Tür: MAAWS ADM 401 Roketi&lt;br /&gt;Mermi 1&lt;br /&gt;Kullanıldığı Yer: MAAWS</Turkish>
-            </Key>
             <Key ID="STR_IBC_Maa_Desc_ASM509">
                 <English>Type: MAAWS ASM 509 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</English>
                 <Czech>Typ: Raketa MAAWS ASM 509&lt;br /&gt;Munice: 1&lt;br /&gt;Použito v: MAAWS</Czech>
@@ -196,22 +180,6 @@
             </Key>
         </Container>
         <Container name="Name">
-            <Key ID="STR_IBC_Maa_Name_ADM401">
-                <English>MAAWS ADM 401 Round</English>
-                <Czech>Střela MAAWS ADM 401</Czech>
-                <French>Munition MAAWS ADM 401</French>
-                <Spanish>Proyectil MAAWS ADM 401</Spanish>
-                <Italian>Proiettile MAAWS ADM 401</Italian>
-                <Polish>Pocisk MAAWS ADM 401</Polish>
-                <Portuguese>Carga MAAWS ADM 401</Portuguese>
-                <Russian>Снаряд MAAWS ADM 401</Russian>
-                <German>MAAWS ADM 401-Munition</German>
-                <Korean>MAAWS ADM 401 라운드</Korean>
-                <Japanese>MAAWS ADM 401 砲弾</Japanese>
-                <Chinese>MAAWS ADM 401 子彈</Chinese>
-                <Chinesesimp>MAAWS ADM 401 炮弹</Chinesesimp>
-                <Turkish>MAAWS ADM 401 Mermisi</Turkish>
-            </Key>
             <Key ID="STR_IBC_Maa_Name_ASM509">
                 <English>MAAWS ASM 509 Round</English>
                 <Czech>Střela MAAWS ASM 509</Czech>

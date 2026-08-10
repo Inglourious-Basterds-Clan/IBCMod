@@ -4,7 +4,6 @@ class CfgMagazineWells {
             "MAA_MAAWS_HEDP502",
             "MAA_MAAWS_MT756",
             "MAA_MAAWS_ASM509",
-            "MAA_MAAWS_ADM401",
             "MAA_MAAWS_ILLUM545",
             "MAA_MAAWS_SMOKE469",
             "MAA_MAAWS_GMM_HEAT",
