@@ -4,7 +4,7 @@ class CfgMagazines
     class Vorona_HE;
     class MRAWS_HE_F;
     class MRAWS_HEAT55_F;
-    
+
     class MAA_MAAWS_GMM_HEAT: Vorona_HEAT
     {
         author="Neonex";
@@ -16,7 +16,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_GMMHEAT);
         mass=70;
     };
-    
+
     class MAA_MAAWS_GMM_HE: Vorona_HE
     {
         author="Neonex";
@@ -28,7 +28,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_GMMHE);
         mass=50;
     };
-    
+
     class MAA_MAAWS_GMM_MT: Vorona_HEAT
     {
         author="Neonex";
@@ -40,7 +40,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_GMMMT);
         mass=100;
     };
-    
+
     class MAA_MAAWS_ILLUM545: MRAWS_HE_F
     {
         author="Neonex";
@@ -52,7 +52,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_ILLUM545);
         mass=30;
     };
-    
+
     class MAA_MAAWS_SMOKE469: MRAWS_HE_F
     {
         author="Neonex";
@@ -64,7 +64,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_SMOKE469);
         mass=30;
     };
-    
+
     class MAA_MAAWS_ASM509: MRAWS_HE_F
     {
         author="Neonex";
@@ -75,7 +75,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_ASM509);
         mass=50;
     };
-    
+
     class MAA_MAAWS_HEDP502: MRAWS_HEAT55_F
     {
         author="Neonex";
@@ -86,7 +86,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_HEDP502);
         mass=40;
     };
-    
+
     class MAA_MAAWS_MT756: MRAWS_HEAT55_F
     {
         author="Neonex";
@@ -97,18 +97,7 @@ class CfgMagazines
         descriptionShort=CSTRING(Desc_MT756);
         mass=90;
     };
-    
-    class MAA_MAAWS_ADM401: MRAWS_HE_F
-    {
-        author="Neonex";
-        displayName=CSTRING(Name_ADM401);
-        ammo="MAA_M_ADM401";
-        displayNameShort="ADM";
-        picture="\z\ibc\addons\maa\UI\ADM401.paa";
-        descriptionShort=CSTRING(Desc_ADM401);
-        mass=40;
-    };
-    
+
     class MAA_MAAWS_HE441_AB100: MRAWS_HE_F
     {
         author="Neonex";
@@ -117,7 +106,7 @@ class CfgMagazines
         displayNameShort="Airburst 100 m";
         descriptionShort=CSTRING(Desc_HE441AB100);
     };
-    
+
     class MAA_MAAWS_HE441_AB250: MRAWS_HE_F
     {
         author="Neonex";
@@ -126,7 +115,7 @@ class CfgMagazines
         displayNameShort="Airburst 250 m";
         descriptionShort=CSTRING(Desc_HE441AB250);
     };
-    
+
     class MAA_MAAWS_HE441_AB500: MRAWS_HE_F
     {
         author="Neonex";

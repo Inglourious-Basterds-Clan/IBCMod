@@ -4,14 +4,14 @@
 #define AddTracerWhite model="\A3\Weapons_f\Data\bullettracer\tracer_white"
 
 class CfgAmmo
-{    
+{
     class M_Titan_AT;
     class M_Titan_AP;
     class ammo_Penetrator_MRAAWS;
     class ammo_Penetrator_MRAAWS_HEAT55;
     class R_MRAAWS_HE_F;
     class R_MRAAWS_HEAT55_F;
-    
+
     class MAA_M_GMM_HEAT: M_Titan_AT
     {
         model="\A3\Weapons_F_beta\Launchers\titan\titan_missile_at_fly";
@@ -29,7 +29,7 @@ class CfgAmmo
         initTime=0.1;
         maxControlRange=2500;
     };
-    
+
     class MAA_M_GMM_HE: M_Titan_AP
     {
         hit=200;
@@ -37,7 +37,7 @@ class CfgAmmo
         indirectHitRange=6;
         warheadName="HE";
     };
-    
+
     class MAA_M_GMM_MT: M_Titan_AT
     {
         hit=200;
@@ -49,7 +49,7 @@ class CfgAmmo
         ExplosionEffects="MortarExplosion";
         explosionEffectsDir="explosionDir";
     };
-    
+
     class MAA_M_ASM509: R_MRAAWS_HE_F
     {
         hit=300;
@@ -60,7 +60,7 @@ class CfgAmmo
         ExplosionEffects="MortarExplosion";
         explosionEffectsDir="explosionDir";
     };
-    
+
     class MAA_M_HEDP502: R_MRAAWS_HEAT55_F
     {
         hit=150;
@@ -70,53 +70,13 @@ class CfgAmmo
         warheadName="HE";
         submunitionAmmo="MAA_Penetrator_HEDP502";
     };
-    
+
     class MAA_Penetrator_HEDP502: ammo_Penetrator_MRAAWS_HEAT55
     {
         caliber=10;
         hit=400;
     };
-    
-    //Can't get the shotgun round to work either :(
-    class MAA_M_ADM401: R_MRAAWS_HE_F
-    {
-        hit=30;
-        explosive=0;
-        caliber=1;
-        indirectHit=0;
-        indirectHitRange=2;
-        deflectionSlowDown = 0.8;
-        directionalExplosion = 0;
-        explosionDir = "explosionDir";
-        explosionEffectsDir = "explosionDir";
-        explosionPos = "explosionPos";
-        fuseDistance = 0;
-        explosionType = "explosive";
-        explosionForceCoef = 1;
-        deleteParentWhenTriggered=1;
-        mineBoundingDist = 3;
-        mineBoundingTime = 3;
-        mineDiveSpeed = 1;
-        mineFloating = -1;
-        mineInconspicuousness = 10;
-        mineJumpEffects = "";
-        minePlaceDist = 0.5;
-        mineTrigger = "RangeTrigger";
-        submunitionAmmo = "B_127x108_Ball";
-        submunitionConeAngle = 20;
-        submunitionConeAngleHorizontal = 50;
-        submunitionConeType[] = {"poissondisccenter",1100};
-        submunitionDirectionType = "SubmunitionModelDirection";
-        submunitionInitialOffset[] = {0,0,0.1};
-        submunitionInitSpeed=0;
-        submunitionParentSpeedCoef = 2.5;
-        triggerTime = 0.01;
-        thrust = 0.1;
-        thrustTime = 0.1;
-        timeToLive = 25;
-        
-    };
-    
+
     class MAA_M_ILLUM545: R_MRAAWS_HE_F
     {
         hit=30;
@@ -136,7 +96,7 @@ class CfgAmmo
         submunitionInitSpeed=1;
         //submunitionParentSpeedCoef = 1;
     };
-    
+
     class MAA_M_SMOKE469: R_MRAAWS_HE_F
     {
         hit=30;
@@ -155,7 +115,7 @@ class CfgAmmo
         deleteParentWhenTriggered=1;
         submunitionInitSpeed=0;
     };
-    
+
     class MAA_M_MT756: R_MRAAWS_HEAT55_F
     {
         hit=200;
@@ -167,24 +127,24 @@ class CfgAmmo
         ExplosionEffects="MortarExplosion";
         explosionEffectsDir="explosionDir";
     };
-    
+
     class MAA_Penetrator_MT756: ammo_Penetrator_MRAAWS
     {
         caliber=40;
         warheadName="TandemHEAT";
         hit=600;
     };
-    
+
     class MAA_M_HE441_AB100: R_MRAAWS_HE_F
     {
         timeToLive=0.2857;
     };
-    
+
     class MAA_M_HE441_AB250: R_MRAAWS_HE_F
     {
         timeToLive=0.71425;
     };
-    
+
     class MAA_M_HE441_AB500: R_MRAAWS_HE_F
     {
         timeToLive=1.4285;
