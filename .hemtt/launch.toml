@@ -34,3 +34,9 @@ workshop = [
     "1795825073", # USP AIO Workshop ID
     "2056229605", # USP Gear - ACE Workshop ID
 ]
+
+[acre]
+extends = "default"
+workshop = [
+    "751965892" # ACRE
+]
