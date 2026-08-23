@@ -9,7 +9,7 @@ class CfgPatches {
 
         VERSION_CONFIG;
 
-        requiredAddons[] = {"rhs_main", "ibc_main"};
+        requiredAddons[] = {"rhs_main_loadorder", "ibc_main"};
         skipWhenMissingDependencies = 1;
 
         units[] = {};
@@ -18,3 +18,4 @@ class CfgPatches {
 };
 
 #include "CfgWeapons.hpp"
+#include "CfgVehicles.hpp"
