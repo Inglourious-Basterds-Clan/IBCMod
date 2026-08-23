@@ -9,7 +9,7 @@ class CfgPatches {
 
         VERSION_CONFIG;
 
-        requiredAddons[] = {"rhssaf_c_gear", "rhssaf_main", "ibc_main"};
+        requiredAddons[] = {"rhssaf_main_loadorder", "ibc_main"};
         skipWhenMissingDependencies = 1;
 
         units[] = {};
