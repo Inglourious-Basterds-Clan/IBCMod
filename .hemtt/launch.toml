@@ -40,3 +40,11 @@ extends = "default"
 workshop = [
     "751965892" # ACRE
 ]
+
+[cup]
+extends = "default"
+workshop = [
+    "497660133",
+    "541888371",
+    "497661914"
+]
