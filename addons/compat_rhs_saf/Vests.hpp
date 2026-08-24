@@ -14,7 +14,7 @@ class VestClass: BaseClass { \
             class Chest \
             { \
                 hitpointName = "HitChest"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \
@@ -28,21 +28,21 @@ class VestClass: BaseClass { \
             class Diaphragm \
             { \
                 hitpointName = "HitDiaphragm"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \
             class Abdomen \
             { \
                 hitpointName = "HitAbdomen"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \
             class Pelvis \
             { \
                 hitpointName = "HitPelvis"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \

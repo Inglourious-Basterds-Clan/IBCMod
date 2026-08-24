@@ -14,7 +14,7 @@ class VestClass: BaseClass { \
             class Chest \
             { \
                 hitpointName = "HitChest"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \
@@ -28,21 +28,21 @@ class VestClass: BaseClass { \
             class Diaphragm \
             { \
                 hitpointName = "HitDiaphragm"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \
             class Abdomen \
             { \
                 hitpointName = "HitAbdomen"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \
             class Pelvis \
             { \
                 hitpointName = "HitPelvis"; \
-                armor = 12; \
+                armor = 16; \
                 passThrough = 0.4; \
                 simulation = ""; \
             }; \
@@ -50,6 +50,63 @@ class VestClass: BaseClass { \
             { \
                 hitpointName = "HitBody"; \
                 passThrough = 0.4; \
+                simulation = ""; \
+            }; \
+        }; \
+    }; \
+}
+
+#define RHS_VEST_HEAVY(VestClass,BaseClass) \
+class VestClass: BaseClass { \
+    class ItemInfo: ItemInfo { \
+        class HitpointsProtectionInfo \
+        { \
+            class Neck \
+            { \
+                hitpointName = "HitNeck"; \
+                armor = 8; \
+                passThrough = 0.3; \
+                simulation = ""; \
+            }; \
+            class Chest \
+            { \
+                hitpointName = "HitChest"; \
+                armor = 16; \
+                passThrough = 0.4; \
+                simulation = ""; \
+            }; \
+            class Arms \
+            { \
+                hitpointName = "HitArms"; \
+                armor = 16; \
+                passThrough = 0.3; \
+                simulation = ""; \
+            }; \
+            class Diaphragm \
+            { \
+                hitpointName = "HitDiaphragm"; \
+                armor = 16; \
+                passThrough = 0.3; \
+                simulation = ""; \
+            }; \
+            class Abdomen \
+            { \
+                hitpointName = "HitAbdomen"; \
+                armor = 16; \
+                passThrough = 0.3; \
+                simulation = ""; \
+            }; \
+            class Pelvis \
+            { \
+                hitpointName = "HitPelvis"; \
+                armor = 16; \
+                passThrough = 0.3; \
+                simulation = ""; \
+            }; \
+            class Body \
+            { \
+                hitpointName = "HitBody"; \
+                passThrough = 0.3; \
                 simulation = ""; \
             }; \
         }; \
@@ -319,7 +376,7 @@ RHS_VEST_MEDIUM(rhs_6b13_Flora_6sh92,rhs_6b13_6sh92);
 RHS_VEST_MEDIUM(rhs_6b13_Flora_6sh92_vog,rhs_6b13_6sh92_vog);
 RHS_VEST_MEDIUM(rhs_6b13_Flora_6sh92_headset_mapcase,rhs_6b13_6sh92_headset_mapcase);
 RHS_VEST_MEDIUM(rhs_6b13_Flora_6sh92_radio,rhs_6b13_6sh92_radio);
-RHS_VEST_MEDIUM(rhs_6b43,rhs_6b23);
+RHS_VEST_HEAVY(rhs_6b43,rhs_6b23);
 RHS_VEST_MEDIUM(rhs_6sh92,Vest_Camo_Base);
 RHS_VEST_MEDIUM(rhs_6sh92_vog,rhs_6sh92);
 RHS_VEST_MEDIUM(rhs_6sh92_vog_headset,rhs_6sh92_vog);
@@ -399,7 +456,7 @@ RHS_VEST_LBE(rhs_suspender_SKS,rhs_belt_sks);
 RHS_VEST_LBE(rhs_suspender_AK,rhs_belt_sks);
 RHS_VEST_LBE(rhs_suspender_AK4,rhs_belt_sks);
 RHS_VEST_LBE(rhs_suspender_AK8_chestrig,rhs_belt_sks);
-RHS_VEST_MEDIUM(rhs_6b45,rhs_6b43);
+RHS_VEST_HEAVY(rhs_6b45,rhs_6b43);
 RHS_VEST_MEDIUM(rhs_6sh117_rifleman,Vest_Camo_Base);
 RHS_VEST_MEDIUM(rhs_6sh117_nco,rhs_6sh117_rifleman);
 RHS_VEST_MEDIUM(rhs_6sh117_nco_azart,rhs_6sh117_rifleman);
