@@ -101,7 +101,7 @@ class CfgWeapons{
     class USP_ACC_GPNVG18_CB_BLK: USP_ItemCore {
         scope = 0;
     };
-    class USP_ACC_GPNVG18_CB_TAN: USP_ACC_GPNVG18_CB_BLK {
+    class USP_ACC_GPNVG18_CB_TAN: USP_ACC_GPNVG18_CB_BLK {        
         scope = 0;
     };
     class USP_ACC_PVS14_BLK: USP_ItemCore {
