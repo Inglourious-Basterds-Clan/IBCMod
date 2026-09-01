@@ -1,4 +1,4 @@
 #define MAJOR 1
-#define MINOR 3
-#define PATCH 3
-#define BUILD 16
+#define MINOR 4
+#define PATCH 0
+#define BUILD 17
