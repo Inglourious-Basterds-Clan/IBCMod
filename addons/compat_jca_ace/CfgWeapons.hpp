@@ -5188,4 +5188,129 @@ class CfgWeapons
             mass = 13;
         };
     };
+    class JCA_smg_MP7_base_F: Rifle_Short_Base_F {
+        ACE_barrelTwist=160;
+        ACE_barrelLength=180;
+        ACE_railHeightAboveBore=4.40772;
+        initSpeed=-1;
+        magazines[] = {
+            "JCA_40Rnd_460x30_MP7_Mag",
+            "JCA_40Rnd_460x30_MP7_Action_Mag",
+            "JCA_40Rnd_460x30_MP7_Subsonic_Mag",
+            "JCA_40Rnd_460x30_MP7_FMJ_Mag",
+            "JCA_40Rnd_460x30_MP7_Red_Mag",
+            "JCA_40Rnd_460x30_MP7_Green_Mag",
+            "JCA_40Rnd_460x30_MP7_Yellow_Mag",
+            "JCA_40Rnd_460x30_MP7_IR_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_Red_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_Green_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_Yellow_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_IR_Mag"
+        };
+        class WeaponSlotsInfo: WeaponSlotsInfo {
+            mass=44.1;
+        };
+        class Single: Mode_SemiAuto {
+            dispersion=0.00135;
+        };
+        class FullAuto: Mode_FullAuto {
+            dispersion=0.00135;
+        };
+    };
+    class JCA_muzzle_snds_MP7_base: ItemCore {
+        class ItemInfo;
+    };
+    class JCA_muzzle_snds_MP7_black: JCA_muzzle_snds_MP7_base {
+        class ItemInfo: ItemInfo {
+            mass=13;
+            class MagazineCoef {
+                initSpeed=1;
+            };
+            class AmmoCoef {
+                hit=1;
+                typicalSpeed=1;
+                airFriction=1;
+                visibleFire=0.5;
+                audibleFire=0.03;
+                visibleFireTime=0.5;
+                audibleFireTime=0.5;
+                cost=1;
+            };
+            class MuzzleCoef {
+                dispersionCoef=1;
+                artilleryDispersionCoef=1;
+                fireLightCoef=0.1;
+                recoilCoef=0.95;
+                recoilProneCoef=0.95;
+                minRangeCoef=1;
+                minRangeProbabCoef=1;
+                midRangeCoef=1;
+                midRangeProbabCoef=1;
+                maxRangeCoef=1;
+                maxRangeProbabCoef=1;
+            };
+        };
+    };
+    class JCA_muzzle_snds_MP7_sand: JCA_muzzle_snds_MP7_base {
+        class ItemInfo: ItemInfo {
+            mass=13;
+            class MagazineCoef {
+                initSpeed=1;
+            };
+            class AmmoCoef {
+                hit=1;
+                typicalSpeed=1;
+                airFriction=1;
+                visibleFire=0.5;
+                audibleFire=0.03;
+                visibleFireTime=0.5;
+                audibleFireTime=0.5;
+                cost=1;
+            };
+            class MuzzleCoef {
+                dispersionCoef=1;
+                artilleryDispersionCoef=1;
+                fireLightCoef=0.1;
+                recoilCoef=0.95;
+                recoilProneCoef=0.95;
+                minRangeCoef=1;
+                minRangeProbabCoef=1;
+                midRangeCoef=1;
+                midRangeProbabCoef=1;
+                maxRangeCoef=1;
+                maxRangeProbabCoef=1;
+            };
+        };
+    };
+    class JCA_muzzle_snds_MP7_olive: JCA_muzzle_snds_MP7_base {
+        class ItemInfo: ItemInfo {
+            mass=13;
+            class MagazineCoef {
+                initSpeed=1;
+            };
+            class AmmoCoef {
+                hit=1;
+                typicalSpeed=1;
+                airFriction=1;
+                visibleFire=0.5;
+                audibleFire=0.03;
+                visibleFireTime=0.5;
+                audibleFireTime=0.5;
+                cost=1;
+            };
+            class MuzzleCoef {
+                dispersionCoef=1;
+                artilleryDispersionCoef=1;
+                fireLightCoef=0.1;
+                recoilCoef=0.95;
+                recoilProneCoef=0.95;
+                minRangeCoef=1;
+                minRangeProbabCoef=1;
+                midRangeCoef=1;
+                midRangeProbabCoef=1;
+                maxRangeCoef=1;
+                maxRangeProbabCoef=1;
+            };
+        };
+    };
 };
