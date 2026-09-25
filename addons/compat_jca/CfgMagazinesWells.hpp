@@ -391,4 +391,20 @@ class CfgMagazineWells {
             "JCA_10Rnd_127x99_M107_Mk257_API_Sand_Mag_Tracer_IR"
         };
     };
+    class JCA_MP7_460x30 {
+        JCA_Magazines[] = {
+            "JCA_40Rnd_460x30_MP7_Mag",
+            "JCA_40Rnd_460x30_MP7_Action_Mag",
+            "JCA_40Rnd_460x30_MP7_Subsonic_Mag",
+            "JCA_40Rnd_460x30_MP7_FMJ_Mag",
+            "JCA_40Rnd_460x30_MP7_Red_Mag",
+            "JCA_40Rnd_460x30_MP7_Green_Mag",
+            "JCA_40Rnd_460x30_MP7_Yellow_Mag",
+            "JCA_40Rnd_460x30_MP7_IR_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_Red_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_Green_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_Yellow_Mag",
+            "JCA_40Rnd_460x30_MP7_Tracer_IR_Mag"
+        };
+    };
 };
