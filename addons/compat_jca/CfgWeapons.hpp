@@ -762,7 +762,7 @@ class CfgWeapons
     class JCA_arifle_M4A1_base_F: Rifle_Base_F {
         ACE_barrelTwist = 177.8;
         ACE_barrelLength = 368.3;
-        ACE_railHeightAboveBore = 2.42081; 
+        ACE_railHeightAboveBore = 2.42081;
         maxZeroing = 1000;
         initSpeed = -0.942679;
         canShootInWater = 1;
@@ -859,7 +859,7 @@ class CfgWeapons
             "JCA_30Rnd_556x45_UW_sand_EMAG"
         };
         class WeaponSlotsInfo: WeaponSlotsInfo {
-            mass = 63.6; 
+            mass = 63.6;
         };
         class Single: Mode_SemiAuto {
             class BaseSoundModeType;
@@ -1513,7 +1513,7 @@ class CfgWeapons
     class JCA_arifle_M4A4_VFG_base_F: JCA_arifle_M4A4_base_F {};
     class JCA_arifle_M4A4_GL_base_F: JCA_arifle_M4A4_base_F {
         ACE_barrelLength = 261.62;
-        initSpeed = -0.8545; 
+        initSpeed = -0.8545;
         descriptionShort = "Assault Rifle<br />Caliber: 5.56x45 mm<br />Grenade Launcher<br />Caliber: 40 mm";
         class WeaponSlotsInfo: WeaponSlotsInfo {
             mass = 90;
@@ -3236,7 +3236,7 @@ class CfgWeapons
             "JCA_20Rnd_762x51_SCAR_Subsonic_Sand_Mag"
         };
         class WeaponSlotsInfo: WeaponSlotsInfo {
-            mass = 80; 
+            mass = 80;
         };
         class Single: Mode_SemiAuto {
             dispersion = 0.000481;
@@ -3386,7 +3386,7 @@ class CfgWeapons
         ACE_barrelTwist = 254;
         ACE_barrelLength = 368.3;
         ACE_railHeightAboveBore = 2.39586;
-        maxZeroing = 1400; 
+        maxZeroing = 1400;
         initSpeed = -0.933;
         magazines[] = {
             "JCA_20Rnd_762x51_PMAG",
@@ -3896,12 +3896,12 @@ class CfgWeapons
         ACE_ScopeHeightAboveRail = 3.75;
     };
     class JCA_optic_CRBS_base: ItemCore {
-        ACE_ScopeHeightAboveRail = 4.58528; 
-        ACE_ScopeZeroRange = 100; 
-        ACE_ScopeAdjust_Vertical[] = {0,23}; 
-        ACE_ScopeAdjust_Horizontal[] = {-11,11}; 
-        ACE_ScopeAdjust_VerticalIncrement = 0.1; 
-        ACE_ScopeAdjust_HorizontalIncrement = 0.1; 
+        ACE_ScopeHeightAboveRail = 4.58528;
+        ACE_ScopeZeroRange = 100;
+        ACE_ScopeAdjust_Vertical[] = {0,23};
+        ACE_ScopeAdjust_Horizontal[] = {-11,11};
+        ACE_ScopeAdjust_VerticalIncrement = 0.1;
+        ACE_ScopeAdjust_HorizontalIncrement = 0.1;
         class ItemInfo: InventoryOpticsItem_Base_F {
             mass = 17.3;
             class OpticsModes {
@@ -3918,7 +3918,7 @@ class CfgWeapons
         ACE_ScopeHeightAboveRail = 4.51714;
         ACE_ScopeZeroRange = 100;
         ACE_ScopeAdjust_Vertical[] = {0,19};
-        ACE_ScopeAdjust_Horizontal[] = {-9,9}; 
+        ACE_ScopeAdjust_Horizontal[] = {-9,9};
         ACE_ScopeAdjust_VerticalIncrement = 0.1;
         ACE_ScopeAdjust_HorizontalIncrement = 0.1;
         class ItemInfo: InventoryOpticsItem_Base_F {
@@ -4097,7 +4097,7 @@ class CfgWeapons
                 cost = 1;
             };
             class MuzzleCoef {
-                dispersionCoef = 1; 
+                dispersionCoef = 1;
                 artilleryDispersionCoef = 1;
                 fireLightCoef = 0.1;
                 recoilCoef = 0.95;
@@ -4263,7 +4263,7 @@ class CfgWeapons
                 dispersionCoef = 1;
                 artilleryDispersionCoef = 1;
                 fireLightCoef = 0.1;
-                recoilCoef = 0.95; 
+                recoilCoef = 0.95;
                 recoilProneCoef = 0.95;
                 minRangeCoef = 1;
                 minRangeProbabCoef = 1;
@@ -4277,9 +4277,9 @@ class CfgWeapons
     };
     class JCA_muzzle_snds_MP5_olive: JCA_muzzle_snds_MP5_base {
         class ItemInfo: ItemInfo {
-            mass = 9.5; 
+            mass = 9.5;
             class MagazineCoef {
-                initSpeed = 1; 
+                initSpeed = 1;
             };
             class AmmoCoef {
                 hit = 1;
@@ -4356,11 +4356,11 @@ class CfgWeapons
                 cost = 1;
             };
             class MuzzleCoef {
-                dispersionCoef = 1; 
+                dispersionCoef = 1;
                 artilleryDispersionCoef = 1;
                 fireLightCoef = 0.1;
-                recoilCoef = 0.95; 
-                recoilProneCoef = 0.95; 
+                recoilCoef = 0.95;
+                recoilProneCoef = 0.95;
                 minRangeCoef = 1;
                 minRangeProbabCoef = 1;
                 midRangeCoef = 1;
@@ -4373,9 +4373,9 @@ class CfgWeapons
     };
     class JCA_muzzle_snds_45_tactical_olive: JCA_muzzle_snds_tactical_base {
         class ItemInfo: ItemInfo {
-            mass = 8.4; 
+            mass = 8.4;
             class MagazineCoef {
-                initSpeed = 1; 
+                initSpeed = 1;
             };
             class AmmoCoef {
                 hit = 1;
@@ -4502,7 +4502,7 @@ class CfgWeapons
     };
     class JCA_muzzle_snds_556_Enhanced_black: JCA_muzzle_snds_enhanced_base {
         class ItemInfo: ItemInfo {
-            mass = 8; 
+            mass = 8;
             class MagazineCoef {
                 initSpeed = 1;
             };
@@ -4534,9 +4534,9 @@ class CfgWeapons
     };
     class JCA_muzzle_snds_556_Enhanced_sand: JCA_muzzle_snds_enhanced_base {
         class ItemInfo: ItemInfo {
-            mass = 8; 
+            mass = 8;
             class MagazineCoef {
-                initSpeed = 1; 
+                initSpeed = 1;
             };
             class AmmoCoef {
                 hit = 1;
@@ -4876,7 +4876,7 @@ class CfgWeapons
         class ItemInfo: ItemInfo {
             mass = 10.5;
             class MagazineCoef {
-                initSpeed = 1; 
+                initSpeed = 1;
             };
             class AmmoCoef {
                 hit = 1;
@@ -5189,10 +5189,10 @@ class CfgWeapons
         };
     };
     class JCA_smg_MP7_base_F: Rifle_Short_Base_F {
-        ACE_barrelTwist=160;
-        ACE_barrelLength=180;
-        ACE_railHeightAboveBore=4.40772;
-        initSpeed=-1;
+        ACE_barrelTwist = 160;
+        ACE_barrelLength = 180;
+        ACE_railHeightAboveBore = 4.40772;
+        initSpeed = -1;
         magazines[] = {
             "JCA_40Rnd_460x30_MP7_Mag",
             "JCA_40Rnd_460x30_MP7_Action_Mag",
@@ -5208,13 +5208,13 @@ class CfgWeapons
             "JCA_40Rnd_460x30_MP7_Tracer_IR_Mag"
         };
         class WeaponSlotsInfo: WeaponSlotsInfo {
-            mass=44.1;
+            mass = 44.1;
         };
         class Single: Mode_SemiAuto {
-            dispersion=0.00135;
+            dispersion = 0.00135;
         };
         class FullAuto: Mode_FullAuto {
-            dispersion=0.00135;
+            dispersion = 0.00135;
         };
     };
     class JCA_muzzle_snds_MP7_base: ItemCore {
@@ -5222,94 +5222,94 @@ class CfgWeapons
     };
     class JCA_muzzle_snds_MP7_black: JCA_muzzle_snds_MP7_base {
         class ItemInfo: ItemInfo {
-            mass=13;
+            mass = 13;
             class MagazineCoef {
-                initSpeed=1;
+                initSpeed = 1;
             };
             class AmmoCoef {
-                hit=1;
-                typicalSpeed=1;
-                airFriction=1;
-                visibleFire=0.5;
-                audibleFire=0.03;
-                visibleFireTime=0.5;
-                audibleFireTime=0.5;
-                cost=1;
+                hit = 1;
+                typicalSpeed = 1;
+                airFriction = 1;
+                visibleFire = 0.5;
+                audibleFire = 0.03;
+                visibleFireTime = 0.5;
+                audibleFireTime = 0.5;
+                cost = 1;
             };
             class MuzzleCoef {
-                dispersionCoef=1;
-                artilleryDispersionCoef=1;
-                fireLightCoef=0.1;
-                recoilCoef=0.95;
-                recoilProneCoef=0.95;
-                minRangeCoef=1;
-                minRangeProbabCoef=1;
-                midRangeCoef=1;
-                midRangeProbabCoef=1;
-                maxRangeCoef=1;
-                maxRangeProbabCoef=1;
+                dispersionCoef = 1;
+                artilleryDispersionCoef = 1;
+                fireLightCoef = 0.1;
+                recoilCoef = 0.95;
+                recoilProneCoef = 0.95;
+                minRangeCoef = 1;
+                minRangeProbabCoef = 1;
+                midRangeCoef = 1;
+                midRangeProbabCoef = 1;
+                maxRangeCoef = 1;
+                maxRangeProbabCoef = 1;
             };
         };
     };
     class JCA_muzzle_snds_MP7_sand: JCA_muzzle_snds_MP7_base {
         class ItemInfo: ItemInfo {
-            mass=13;
+            mass = 13;
             class MagazineCoef {
-                initSpeed=1;
+                initSpeed = 1;
             };
             class AmmoCoef {
-                hit=1;
-                typicalSpeed=1;
-                airFriction=1;
-                visibleFire=0.5;
-                audibleFire=0.03;
-                visibleFireTime=0.5;
-                audibleFireTime=0.5;
-                cost=1;
+                hit = 1;
+                typicalSpeed = 1;
+                airFriction = 1;
+                visibleFire = 0.5;
+                audibleFire = 0.03;
+                visibleFireTime = 0.5;
+                audibleFireTime = 0.5;
+                cost = 1;
             };
             class MuzzleCoef {
-                dispersionCoef=1;
-                artilleryDispersionCoef=1;
-                fireLightCoef=0.1;
-                recoilCoef=0.95;
-                recoilProneCoef=0.95;
-                minRangeCoef=1;
-                minRangeProbabCoef=1;
-                midRangeCoef=1;
-                midRangeProbabCoef=1;
-                maxRangeCoef=1;
-                maxRangeProbabCoef=1;
+                dispersionCoef = 1;
+                artilleryDispersionCoef = 1;
+                fireLightCoef = 0.1;
+                recoilCoef = 0.95;
+                recoilProneCoef = 0.95;
+                minRangeCoef = 1;
+                minRangeProbabCoef = 1;
+                midRangeCoef = 1;
+                midRangeProbabCoef = 1;
+                maxRangeCoef = 1;
+                maxRangeProbabCoef = 1;
             };
         };
     };
     class JCA_muzzle_snds_MP7_olive: JCA_muzzle_snds_MP7_base {
         class ItemInfo: ItemInfo {
-            mass=13;
+            mass = 13;
             class MagazineCoef {
-                initSpeed=1;
+                initSpeed = 1;
             };
             class AmmoCoef {
-                hit=1;
-                typicalSpeed=1;
-                airFriction=1;
-                visibleFire=0.5;
-                audibleFire=0.03;
-                visibleFireTime=0.5;
-                audibleFireTime=0.5;
-                cost=1;
+                hit = 1;
+                typicalSpeed = 1;
+                airFriction = 1;
+                visibleFire = 0.5;
+                audibleFire = 0.03;
+                visibleFireTime = 0.5;
+                audibleFireTime = 0.5;
+                cost = 1;
             };
             class MuzzleCoef {
-                dispersionCoef=1;
-                artilleryDispersionCoef=1;
-                fireLightCoef=0.1;
-                recoilCoef=0.95;
-                recoilProneCoef=0.95;
-                minRangeCoef=1;
-                minRangeProbabCoef=1;
-                midRangeCoef=1;
-                midRangeProbabCoef=1;
-                maxRangeCoef=1;
-                maxRangeProbabCoef=1;
+                dispersionCoef = 1;
+                artilleryDispersionCoef = 1;
+                fireLightCoef = 0.1;
+                recoilCoef = 0.95;
+                recoilProneCoef = 0.95;
+                minRangeCoef = 1;
+                minRangeProbabCoef = 1;
+                midRangeCoef = 1;
+                midRangeProbabCoef = 1;
+                maxRangeCoef = 1;
+                maxRangeProbabCoef = 1;
             };
         };
     };

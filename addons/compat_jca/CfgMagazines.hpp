@@ -1642,66 +1642,66 @@ class CfgMagazines {
         displaynameshort = "API-T IR";
     };
     class JCA_40Rnd_460x30_MP7_Mag: CA_Magazine {
-        displayName="4.6 mm 40Rnd MP7 AP Mag";
-        ammo="JCA_B_460x30_Ball_AP";
-        initSpeed=680;
-        displaynameshort="AP";
+        displayName = "4.6 mm 40Rnd MP7 AP Mag";
+        ammo = "JCA_B_460x30_Ball_AP";
+        initSpeed = 680;
+        displaynameshort = "AP";
     };
     class JCA_40Rnd_460x30_MP7_Action_Mag: JCA_40Rnd_460x30_MP7_Mag {
-        author="Laid3acK";
-        displayName="4.6 mm 40Rnd MP7 Action Mag";
-        ammo="JCA_B_460x30_Ball_Action";
-        initSpeed=688;
-        displaynameshort="Action";
+        author = "Laid3acK";
+        displayName = "4.6 mm 40Rnd MP7 Action Mag";
+        ammo = "JCA_B_460x30_Ball_Action";
+        initSpeed = 688;
+        displaynameshort = "Action";
     };
     class JCA_40Rnd_460x30_MP7_Subsonic_Mag: JCA_40Rnd_460x30_MP7_Mag {
-        author="Laid3acK";
-        displayName="4.6 mm 40Rnd MP7 Subsonic Mag";
-        ammo="JCA_B_460x30_Ball_Subsonic";
-        initSpeed=296;
-        mass=13.3;
-        displaynameshort="Subsonic";
+        author = "Laid3acK";
+        displayName = "4.6 mm 40Rnd MP7 Subsonic Mag";
+        ammo = "JCA_B_460x30_Ball_Subsonic";
+        initSpeed = 296;
+        mass = 13.3;
+        displaynameshort = "Subsonic";
     };
     class JCA_40Rnd_460x30_MP7_FMJ_Mag: JCA_40Rnd_460x30_MP7_Mag {
-        author="Laid3acK";
-        displayName="4.6 mm 40Rnd MP7 FMJ Mag";
-        ammo="JCA_B_460x30_Ball_FMJ";
-        initSpeed=622;
-        mass=10.5;
-        displaynameshort="FMJ";
+        author = "Laid3acK";
+        displayName = "4.6 mm 40Rnd MP7 FMJ Mag";
+        ammo = "JCA_B_460x30_Ball_FMJ";
+        initSpeed = 622;
+        mass = 10.5;
+        displaynameshort = "FMJ";
     };
     class JCA_40Rnd_460x30_MP7_Red_Mag: JCA_40Rnd_460x30_MP7_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Reload Tracer (Red) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_Red";
+        displayName = "4.6 mm 40Rnd MP7 AP Reload Tracer (Red) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_Red";
     };
     class JCA_40Rnd_460x30_MP7_Green_Mag: JCA_40Rnd_460x30_MP7_Red_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Reload Tracer (Green) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_Green";
+        displayName = "4.6 mm 40Rnd MP7 AP Reload Tracer (Green) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_Green";
     };
     class JCA_40Rnd_460x30_MP7_Yellow_Mag: JCA_40Rnd_460x30_MP7_Red_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Reload Tracer (Yellow) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_Yellow";
+        displayName = "4.6 mm 40Rnd MP7 AP Reload Tracer (Yellow) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_Yellow";
     };
     class JCA_40Rnd_460x30_MP7_IR_Mag: JCA_40Rnd_460x30_MP7_Red_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Reload Tracer (IR) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_IR";
+        displayName = "4.6 mm 40Rnd MP7 AP Reload Tracer (IR) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_IR";
     };
     class JCA_40Rnd_460x30_MP7_Tracer_Red_Mag: JCA_40Rnd_460x30_MP7_Red_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Tracer (Red) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_Red";
-        displaynameshort="AP Tracer";
+        displayName = "4.6 mm 40Rnd MP7 AP Tracer (Red) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_Red";
+        displaynameshort = "AP Tracer";
     };
     class JCA_40Rnd_460x30_MP7_Tracer_Green_Mag: JCA_40Rnd_460x30_MP7_Tracer_Red_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Tracer (Green) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_Green";
+        displayName = "4.6 mm 40Rnd MP7 AP Tracer (Green) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_Green";
     };
     class JCA_40Rnd_460x30_MP7_Tracer_Yellow_Mag: JCA_40Rnd_460x30_MP7_Tracer_Red_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Tracer (Yellow) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_Yellow";
+        displayName = "4.6 mm 40Rnd MP7 AP Tracer (Yellow) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_Yellow";
     };
     class JCA_40Rnd_460x30_MP7_Tracer_IR_Mag: JCA_40Rnd_460x30_MP7_Tracer_Red_Mag {
-        displayName="4.6 mm 40Rnd MP7 AP Tracer (IR) Mag";
-        ammo="JCA_B_460x30_Ball_AP_Tracer_IR";
-        displaynameshort="AP Tracer IR";
+        displayName = "4.6 mm 40Rnd MP7 AP Tracer (IR) Mag";
+        ammo = "JCA_B_460x30_Ball_AP_Tracer_IR";
+        displaynameshort = "AP Tracer IR";
     };
 };
