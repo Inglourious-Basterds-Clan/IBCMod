@@ -252,7 +252,7 @@ class rhs_vest_pistol_holster: rhs_vest_commander
 {
     class ItemInfo: ItemInfo
     {
-        class HitpointsProtectionInfo 
+        class HitpointsProtectionInfo
         {
             class Head
             {
@@ -271,48 +271,48 @@ class rhs_vest_pistol_holster: rhs_vest_commander
                 hitpointName = "HitNeck";
                 Armor=0;
                 passThrough = 1;
-                simulation = "";    
+                simulation = "";
             };
             class Chest
             {
                 hitpointName = "HitChest";
                 Armor=0;
                 passThrough = 1;
-                simulation = "";    
+                simulation = "";
             };
             class Arms
             {
                 hitpointName = "HitArms";
                 Armor=0;
                 passThrough = 1;
-                simulation = "";    
+                simulation = "";
             };
             class Diaphragm
             {
                 hitpointName = "HitDiaphragm";
                 Armor=0;
                 passThrough = 1;
-                simulation = "";    
+                simulation = "";
             };
             class Abdomen
             {
                 hitpointName = "HitAbdomen";
                 Armor=0;
                 passThrough = 1;
-                simulation = "";    
+                simulation = "";
             };
             class Pelvis
             {
                 hitpointName = "HitPelvis";
                 Armor=0;
                 passThrough = 1;
-                simulation = "";        
+                simulation = "";
             };
             class Body
             {
                 hitpointName = "HitBody";
                 passThrough = 1;
-                simulation = "";    
+                simulation = "";
             };
         };
     };
@@ -377,21 +377,21 @@ RHS_VEST_MEDIUM(rhs_6b13_Flora_6sh92_vog,rhs_6b13_6sh92_vog);
 RHS_VEST_MEDIUM(rhs_6b13_Flora_6sh92_headset_mapcase,rhs_6b13_6sh92_headset_mapcase);
 RHS_VEST_MEDIUM(rhs_6b13_Flora_6sh92_radio,rhs_6b13_6sh92_radio);
 RHS_VEST_HEAVY(rhs_6b43,rhs_6b23);
-RHS_VEST_MEDIUM(rhs_6sh92,Vest_Camo_Base);
-RHS_VEST_MEDIUM(rhs_6sh92_vog,rhs_6sh92);
-RHS_VEST_MEDIUM(rhs_6sh92_vog_headset,rhs_6sh92_vog);
-RHS_VEST_MEDIUM(rhs_6sh92_headset,rhs_6sh92);
-RHS_VEST_MEDIUM(rhs_6sh92_radio,rhs_6sh92);
-RHS_VEST_MEDIUM(rhs_6sh92_digi,rhs_6sh92);
-RHS_VEST_MEDIUM(rhs_6sh92_digi_vog,rhs_6sh92_vog);
-RHS_VEST_MEDIUM(rhs_6sh92_digi_vog_headset,rhs_6sh92_vog_headset);
-RHS_VEST_MEDIUM(rhs_6sh92_digi_headset,rhs_6sh92_headset);
-RHS_VEST_MEDIUM(rhs_6sh92_digi_radio,rhs_6sh92_radio);
-RHS_VEST_MEDIUM(rhs_6sh92_vsr,rhs_6sh92);
-RHS_VEST_MEDIUM(rhs_6sh92_vsr_vog,rhs_6sh92_vog);
-RHS_VEST_MEDIUM(rhs_6sh92_vsr_vog_headset,rhs_6sh92_vog_headset);
-RHS_VEST_MEDIUM(rhs_6sh92_vsr_headset,rhs_6sh92_headset);
-RHS_VEST_MEDIUM(rhs_6sh92_vsr_radio,rhs_6sh92_radio);
+RHS_VEST_LBE(rhs_6sh92,Vest_Camo_Base);
+RHS_VEST_LBE(rhs_6sh92_vog,rhs_6sh92);
+RHS_VEST_LBE(rhs_6sh92_vog_headset,rhs_6sh92_vog);
+RHS_VEST_LBE(rhs_6sh92_headset,rhs_6sh92);
+RHS_VEST_LBE(rhs_6sh92_radio,rhs_6sh92);
+RHS_VEST_LBE(rhs_6sh92_digi,rhs_6sh92);
+RHS_VEST_LBE(rhs_6sh92_digi_vog,rhs_6sh92_vog);
+RHS_VEST_LBE(rhs_6sh92_digi_vog_headset,rhs_6sh92_vog_headset);
+RHS_VEST_LBE(rhs_6sh92_digi_headset,rhs_6sh92_headset);
+RHS_VEST_LBE(rhs_6sh92_digi_radio,rhs_6sh92_radio);
+RHS_VEST_LBE(rhs_6sh92_vsr,rhs_6sh92);
+RHS_VEST_LBE(rhs_6sh92_vsr_vog,rhs_6sh92_vog);
+RHS_VEST_LBE(rhs_6sh92_vsr_vog_headset,rhs_6sh92_vog_headset);
+RHS_VEST_LBE(rhs_6sh92_vsr_headset,rhs_6sh92_headset);
+RHS_VEST_LBE(rhs_6sh92_vsr_radio,rhs_6sh92_radio);
 
 // Light armor vests
 RHS_VEST_LIGHT(rhs_6b2,Vest_Camo_Base);
